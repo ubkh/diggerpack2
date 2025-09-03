@@ -1,13 +1,13 @@
-filename = 'Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [Forge] - [1.20-1.20.1].jar'
-name = 'Better Dogs X Doggy Talents Next'
-side = 'both'
+filename = "Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [Forge] - [1.20-1.20.1].jar"
+name = "Better Dogs X Doggy Talents Next"
+side = "both"
 
 [download]
-hash = 'dbba6eab9d1276b954f4747b64caf47a559b22a94c0b89a317f2c9aef94c0ab29f1bf07a9fcaf3235dae92e4b1b9186ce7e2260e309964160b27e78e7e46a45b'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/JT2UVYcB/versions/xCX3nwsX/Better_Dogs_X_Doggy_Talents_Next_v1.2.2 %5BForge%5D - %5B1.20-1.20.1%5D.jar'
+hash = "dbba6eab9d1276b954f4747b64caf47a559b22a94c0b89a317f2c9aef94c0ab29f1bf07a9fcaf3235dae92e4b1b9186ce7e2260e309964160b27e78e7e46a45b"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/JT2UVYcB/versions/xCX3nwsX/Better_Dogs_X_Doggy_Talents_Next_v1.2.2%20%255BForge%255D%20-%20%255B1.20-1.20.1%255D.jar"
 
 [update.modrinth]
-mod-id = 'JT2UVYcB'
-version = 'xCX3nwsX'
+mod-id = "JT2UVYcB"
+version = "xCX3nwsX"
