@@ -5596,3 +5596,7 @@ hash = "11cd62665109e4b8b27f3f691180f035e4e66de0dc0a2ca4b85a615d53255ba3"
 [[files]]
 file = "resourcepacks/Fusion_Connected_Glass_v1.0.0_for_Minecraft_1.20-1.21.8.zip"
 hash = "0d5902494e210af3684a7db43d36360f0f852396f227cdafb0cc61c7e1951fe8"
+
+[[files]]
+file = "resourcepacks/test.zip"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
