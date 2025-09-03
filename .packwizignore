@@ -7,11 +7,8 @@ dp2
 sig
 unknown-mods
 
-check_mods.py
-fix_urls.py
-strip_toml.py
-update_side.py
-sanitise_filenames.py
+script/*
+
 start.py
 config.py
 
