@@ -3,7 +3,7 @@
   "fade": 20,
   "tintColor": -14606047,
   "tintStrength": 0.3,
-  "enableScreenshotBlur": true,
+  "enableScreenshotBlur": false,
   "screenshotBlurStrength": 1.0,
   "screenshotBlurQuality": 5.0,
   "playSoundEffect": false,

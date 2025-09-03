@@ -506,28 +506,6 @@
       },
       "sync": "irons_spellbooks:spell_wheel"
     },
-    "leavemybarsalone:experience_bar_mounted": {
-      "displacement": {
-        "x": 0,
-        "y": 0
-      },
-      "direction": {
-        "x": "NONE",
-        "y": "NONE"
-      },
-      "sync": "leavemybarsalone:experience_bar_mounted"
-    },
-    "leavemybarsalone:food_level_mounted": {
-      "displacement": {
-        "x": 0,
-        "y": 0
-      },
-      "direction": {
-        "x": "NONE",
-        "y": "NONE"
-      },
-      "sync": "leavemybarsalone:food_level_mounted"
-    },
     "lost_aether_content:moa_speed_modifier": {
       "displacement": {
         "x": 0,
@@ -923,17 +901,6 @@
         "y": "NONE"
       },
       "sync": "trajanscore:overlay"
-    },
-    "twilightforest:quest_ram_indicator": {
-      "displacement": {
-        "x": 0,
-        "y": 0
-      },
-      "direction": {
-        "x": "NONE",
-        "y": "NONE"
-      },
-      "sync": "twilightforest:quest_ram_indicator"
     },
     "vs_clockwork:gravitron": {
       "displacement": {

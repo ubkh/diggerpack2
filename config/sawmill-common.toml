@@ -30,6 +30,6 @@
 
 	#This is a map of wood object type to its cost in planks. Its used to add some discount to some special blocks.Change this if say you want all fences to cost 1 plank. Not all keys will work here bt you can try modded ones if you hae Every Compat
 	[general.special_recipe_costs]
-		stairs = 1.0
 		boat = 4.0
+		stairs = 1.0
 

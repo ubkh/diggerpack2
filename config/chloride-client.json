@@ -1,7 +1,7 @@
 {
   "modpackMode": false,
-  "fullScreen": "BORDERLESS",
-  "fpsDisplayMode": "SIMPLE",
+  "fullScreen": "WINDOWED",
+  "fpsDisplayMode": "ADVANCED",
   "fpsDisplayAlign": "LEFT",
   "fpsDisplayVAlign": "TOP",
   "fpsDisplaySystemMode": "OFF",
@@ -63,6 +63,6 @@
   ],
   "borderlessAttachModeF11": "ATTACH",
   "fastLanguageReload": true,
-  "enableZoom": false,
+  "enableZoom": true,
   "maxZoom": 50.0
 }
