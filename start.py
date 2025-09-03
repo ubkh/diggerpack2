@@ -13,7 +13,7 @@ def run_script(script_name):
     print(f"\n--- Running {script_name} ---")
     try:
         # Use python3 to ensure the correct interpreter is used
-        subprocess.run(["python3", script_name], check=True)
+        subprocess.run(["python3", "script/" + script_name], check=True)
     except FileNotFoundError:
         print(f"Error: Python interpreter 'python3' or script '{script_name}' not found.")
         exit(1)

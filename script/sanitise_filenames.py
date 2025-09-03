@@ -1,6 +1,14 @@
 import os
+import sys
 import toml
 import re
+
+# Get the path of the parent directory
+parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+
+# Add the parent directory to the system path
+sys.path.append(parent_dir)
+
 from config import SANITISE_DIRS
 
 def sanitize_and_update_filenames(directory):
