@@ -12,6 +12,7 @@ fix_urls.py
 strip_toml.py
 update_side.py
 start.py
+config.py
 
 unsup.ini
 unsup.sig

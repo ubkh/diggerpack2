@@ -10,8 +10,8 @@ ROOT_COPY_PATH = os.path.expanduser("~/Library/Application Support/PrismLauncher
 # These will be copied to the current working directory.
 ADDITIONAL_COPY_PATHS = [
     "config",
-    "resources",
-    "options.txt"
+    "resourcepacks",
+    "datapacks"
 ]
 
 # The name of the directory containing the .pw.toml files relative to the ROOT_COPY_PATH.

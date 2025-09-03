@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config.py"
-hash = "6e3d69545af66defc6583e7d259c66e330452ba8bc29020c2bfb090eb879e63b"
-
-[[files]]
 file = "config/Advancedperipherals/general.toml"
 hash = "6b3115248f87c339c5ae934d586f48df30f039b0254b4c5f187f7fb17e3901dc"
 
@@ -3545,6 +3541,18 @@ file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
+file = "datapacks/BetterVillages_Bountiful_1.20.1.zip"
+hash = "12aef84659512e7a79cd117824b8503df24822485e1fb70d0b48815fc33e8e3e"
+
+[[files]]
+file = "datapacks/CreateChippedCutting312051.zip"
+hash = "aed36dee85c7039add90586b0b9cffe65d01448b617df9e07ff2d4699143adc1"
+
+[[files]]
+file = "datapacks/vsweightfix.zip"
+hash = "e2a531d9a27f0fe290fb9979b188c94b32e539efed2ef07ddfa0ab4b3c3ac04d"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "b9317651652071f3aaeb98e4454c23f0b760b2e4838839383cbd46831e35db84"
 metafile = true
@@ -5570,5 +5578,21 @@ hash = "9af25c4ee4edc482d4f8a1171ee5c80055a3e0118172377e5ef6a70cba863560"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "a5d17055adf45a6f4c18f02d3ef1a227a27e4da368b2c11bf6d47cc224775e7a"
+file = "resourcepacks/Fancy Crops v1.2.zip"
+hash = "20714e3d349c1028200abcb0326da0fad6b43bc581956225414a8b319c064847"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.10.1.zip"
+hash = "2e2f0152469fcaac19c46f2959e0232f9b2c12a255e0481d85f845ecba003692"
+
+[[files]]
+file = "resourcepacks/Fusion Block Transitions v1.0.1 for Minecraft 1.20-1.21.8.zip"
+hash = "8086af74ed8c7e5b5b33bf1d30ddf7c600375b4dfb59ac10e1a538692b252a4a"
+
+[[files]]
+file = "resourcepacks/Fusion Connected Blocks v1.0.1 for Minecraft 1.20-1.21.8.zip"
+hash = "11cd62665109e4b8b27f3f691180f035e4e66de0dc0a2ca4b85a615d53255ba3"
+
+[[files]]
+file = "resourcepacks/Fusion Connected Glass v1.0.0 for Minecraft 1.20-1.21.8.zip"
+hash = "0d5902494e210af3684a7db43d36360f0f852396f227cdafb0cc61c7e1951fe8"
