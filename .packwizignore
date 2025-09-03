@@ -2,13 +2,16 @@
 # See https://git-scm.com/docs/gitignore
 
 /README.md
+__pycache__/
 dp2
 sig
+unknown-mods
 
 check_mods.py
 fix_urls.py
 strip_toml.py
 update_side.py
+start.py
 
 unsup.ini
 unsup.sig

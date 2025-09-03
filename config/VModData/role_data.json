@@ -1,0 +1,13 @@
+{
+  "rolesPermissions" : {
+    "default" : [ "Allow SensorMode", "Allow VEntityChanger", "Allow RopeMode", "Allow ScaleMode", "Allow StripMode", "Allow SchemMode", "Allow GravChangerMode", "Allow MassChangerMode", "Allow SyncRotation", "Allow ShipRemoverMode", "Allow Command Usage", "Allow ConnectionMode", "Allow HydraulicsMode", "Allow SliderMode", "Allow ThrusterMode", "Allow DisableCollisionsMode", "Allow PhysRopeMode" ]
+  },
+  "playersRoles" : {
+    "3ade3997-0763-4ec9-9175-b7f7b9ca18b8" : {
+      "uuid" : "3ade3997-0763-4ec9-9175-b7f7b9ca18b8",
+      "nickname" : "ubkh",
+      "role" : "default"
+    }
+  },
+  "allRoles" : [ "default" ]
+}
