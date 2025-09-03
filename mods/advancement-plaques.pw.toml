@@ -1,8 +1,6 @@
 filename = 'AdvancementPlaques-1.20.1-forge-1.6.9.jar'
 name = 'Advancement Plaques'
 side = 'client'
-
-[download]
 hash = '20053af7b38b6d25c18c73608f5437f7298c2cf9310c0f71933c02224bf903b18ae61c9959753d834e2c9687b6b57175bfe01f3a3c96bcc599714a4f5155b492'
 hash-format = 'sha512'
 mode = 'url'

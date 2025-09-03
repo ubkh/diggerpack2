@@ -1,8 +1,6 @@
 filename = 'trajans-tanks-forge-1.20.1-2.6.jar'
 name = "Trajan's Tanks (Forge)"
 side = 'both'
-
-[download]
 hash = '71ae87d0a8541512ebd40d2fa91f1a9678d5ff5b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

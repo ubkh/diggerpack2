@@ -1,8 +1,6 @@
 filename = 'unusualend-2.3.0-forge-1.20.1.jar'
 name = 'Unusual End'
 side = 'both'
-
-[download]
 hash = 'd88bb591209d0962e582333da6c66d14842a2d9375c13ca9bbd9c36d19dcfe78c24155ca39199beb4a2edab8ae77175046e02d4b43496940cf5ab461a3dbe641'
 hash-format = 'sha512'
 mode = 'url'

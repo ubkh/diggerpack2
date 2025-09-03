@@ -1,8 +1,6 @@
 filename = 'antique-atlas-2.11.2+1.20.jar'
 name = 'Antique Atlas 4'
 side = 'client'
-
-[download]
 hash = '148ffd1dfd09c1f59e64c2b95a30a6292f7bf96d52aeaa77955ab63b2cdfe59ffaed0797b8b2fa5eec09e77904fc8d778a5a3e818ce586671037733c30e2e92f'
 hash-format = 'sha512'
 mode = 'url'

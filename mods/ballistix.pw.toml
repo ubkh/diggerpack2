@@ -1,8 +1,6 @@
 filename = 'Ballistix-1.20.1-0.7.4-2.jar'
 name = 'Ballistix'
 side = 'both'
-
-[download]
 hash = '07c3c04ff45b67988d05761a72a7e3a80d3546b70f6ce2c51a6bb0039eef2da08bb2ab83a76e291bcd786531290affd78999853615d66194500555200e0c7c5d'
 hash-format = 'sha512'
 mode = 'url'

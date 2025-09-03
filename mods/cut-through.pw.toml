@@ -1,8 +1,6 @@
 filename = 'CutThrough-v8.0.2-1.20.1-Forge.jar'
 name = 'Cut Through'
 side = 'client'
-
-[download]
 hash = '62a89186a53f2cb3e4bd22252dd049152053a1ae312d6421be528ac7e5fdda2883bf5bd7ec8b57b8af69c6f952cdb804d39acf5e85ddffb1e7d1a516c98d0c1c'
 hash-format = 'sha512'
 mode = 'url'

@@ -1,8 +1,6 @@
 filename = 'remorphed-4.2.jar'
 name = 'Remorphed'
 side = 'both'
-
-[download]
 hash = 'd17059206f92107b9b9c3e423b13a3999b525733f44bc0541982377bc540630da6c80882d0165180706fbd20d11c7509c1b22b5d98883311f7a513b3bf134399'
 hash-format = 'sha512'
 mode = 'url'

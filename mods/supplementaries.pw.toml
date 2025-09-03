@@ -1,8 +1,6 @@
 filename = 'supplementaries-1.20-3.1.18.jar'
 name = 'Supplementaries'
 side = 'both'
-
-[download]
 hash = 'c951776268f3353bfcae995325e143879f6694d8b539557b13446f36ba12a4cef8fdc3d22b18741f2f1f87037c0bdfd25163828806c630b3507c4733e1436bd7'
 hash-format = 'sha512'
 mode = 'url'

@@ -1,8 +1,6 @@
 filename = '[1.20.1] SecurityCraft v1.10.0.1.jar'
 name = 'SecurityCraft'
 side = 'both'
-
-[download]
 hash = '1890516f36604a123125f8565faff1a90fa13aea7f9d6fb00dde21aa8318992dc7e9f9de971d11f7767916193f8dc2d41ac629ded16e77d73a7b769807b952fe'
 hash-format = 'sha512'
 mode = 'url'

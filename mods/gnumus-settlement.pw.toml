@@ -1,8 +1,6 @@
 filename = 'gnumus_settlement_[Forge]1.20.1_v1.0.jar'
 name = 'Gnumus Settlement'
 side = 'both'
-
-[download]
 hash = '058b7f35e0b91fe8b946cffe80bb28e5270bfb41'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

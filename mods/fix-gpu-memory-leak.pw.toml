@@ -1,8 +1,6 @@
 filename = 'gpumemleakfix-1.20.1-1.8.jar'
 name = 'fix GPU memory leak[Forge/Fabric]'
 side = 'client'
-
-[download]
 hash = '54301c2db5467e0f9f5c504887436f358335331f'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

@@ -1,8 +1,6 @@
 filename = 'fastboot-1.20.x-1.2.jar'
 name = 'FastBoot'
 side = 'client'
-
-[download]
 hash = '7c888221c58ba85199feeae6aba539bde4a02c4c996457b49d91cb9274f5a08b19cfecfe6d6c3387343ef15dbfde812f8e2672e4fd7979615045d6a9d16e6aa8'
 hash-format = 'sha512'
 mode = 'url'

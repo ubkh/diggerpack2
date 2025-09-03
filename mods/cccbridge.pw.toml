@@ -1,8 +1,6 @@
 filename = 'cccbridge-mc1.20.1-v1.7.0-forge.jar'
 name = 'CC:C Bridge'
 side = 'both'
-
-[download]
 hash = '6258a397a476abc274394f15b1ad9a48ce1b1fa846eb55cd6dd626157dc5f87652ee5820eefbb11eb2183284064435f8ee5514a4d650734dd9a242b6487da2f0'
 hash-format = 'sha512'
 mode = 'url'

@@ -1,8 +1,6 @@
 filename = 'particular-1.20.1-Forge-1.2.4.jar'
 name = 'Particular ✨ Reforged'
 side = 'client'
-
-[download]
 hash = 'ad4e43288e04daa286cce5cedce07cceb9603e95562d91cbf5bb8cea0090fd93f28aa12c28d36988b60a86136899be2138fbf324171755b59b36dde2b836fdae'
 hash-format = 'sha512'
 mode = 'url'

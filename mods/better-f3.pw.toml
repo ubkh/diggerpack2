@@ -1,8 +1,6 @@
 filename = 'betterf3-1.20.1-1.0.jar'
 name = 'Better F3'
 side = 'client'
-
-[download]
 hash = '99b1784c619ff837b92e8888cad524ee9ab4333bf8891c4cba145c3fcb71f8113c018577509bdb254c71424df4cb71f6c24fab5449abdf7e20e780676c316d5b'
 hash-format = 'sha512'
 mode = 'url'

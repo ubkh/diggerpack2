@@ -1,8 +1,6 @@
 filename = 'stylecolonies-1.20.1-1.15.31.jar'
 name = 'Stylecolonies'
 side = 'both'
-
-[download]
 hash = '25021306e15490b56fbf9a2051471ee77328b7a1'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

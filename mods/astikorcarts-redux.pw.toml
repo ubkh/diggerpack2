@@ -1,8 +1,6 @@
 filename = 'astikorcarts-1.20.1-1.1.8.jar'
 name = 'AstikorCarts Redux'
 side = 'both'
-
-[download]
 hash = 'b75bd70ba76b0f82ab4dd546594ff7121849b3c6a574afbfcdb1acc9596559230019628a6197c420e9b96233482780f896574d868f046ef1c61a61c8928d9888'
 hash-format = 'sha512'
 mode = 'url'

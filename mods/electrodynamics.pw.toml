@@ -1,8 +1,6 @@
 filename = 'Electrodynamics-1.20.1-0.9.2-6.jar'
 name = 'Electrodynamics'
 side = 'both'
-
-[download]
 hash = 'ef5edc21b897414757ef547829773384e785a8097a140b7fce837d2806e1c2163c6a078ad05d677ae9eb67f49a2a9cca440568198cc71f55a27c9bce89502d08'
 hash-format = 'sha512'
 mode = 'url'

@@ -1,8 +1,6 @@
 filename = 'flickerfix-1.20.1-4.0.1.jar'
 name = 'FlickerFix'
 side = 'client'
-
-[download]
 hash = '067e66d2ab3f8b538b03964cc98dbe25141a858b0cd38eec1dc15192e312fe2da9a0c1b17bb7c27341e54ebdfe59c2f538d254fdea0834062292505448203bf6'
 hash-format = 'sha512'
 mode = 'url'

@@ -1,8 +1,6 @@
 filename = 'Voltaic-1.20.1-1.0.0-8.jar'
 name = 'Voltaic'
 side = 'both'
-
-[download]
 hash = 'b6ecfc4665448ae7d14353b36ac8fba02ec769599553c2592c8f8388952c6eb85179ad9ea5686d856602ff2ee635a76c4e7127d54b7d1c1f10c1de2f55a3c7c0'
 hash-format = 'sha512'
 mode = 'url'

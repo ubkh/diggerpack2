@@ -1,8 +1,6 @@
 filename = 'createenchantablemachinery-2.8.8-mc1.20.1-forge.jar'
 name = 'Create: Enchantable Machinery'
 side = 'both'
-
-[download]
 hash = '8f6ebf2afc0ca3bb9136a1f4cb2318c6201101819ff28e8e89412a124c0d8bc2deaf88bb5fe0d449702481844b290a0094164c2c5efcda6ee1a9ca1db3950154'
 hash-format = 'sha512'
 mode = 'url'

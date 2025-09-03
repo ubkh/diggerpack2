@@ -1,8 +1,6 @@
 filename = 'creategoggles-1.20.1-0.5.6-[FORGE].jar'
 name = 'Create Goggles'
 side = 'both'
-
-[download]
 hash = '5263bf1964bb6b2d549adc81f15658727bb0e8723eac41ce610508cb36b853609e5d032aa14a4134e3aad933ce2017733ff2a7a6bde9c4f78088cda3dee68a24'
 hash-format = 'sha512'
 mode = 'url'

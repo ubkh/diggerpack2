@@ -1,8 +1,6 @@
 filename = 'additionaltrims-1.20.1-1.0.0.2-release.jar'
 name = 'Additional Trims'
 side = 'both'
-
-[download]
 hash = '7b87557b920046ce4a45011f603d24b6d8ccb4bf'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

@@ -1,8 +1,6 @@
 filename = 'ecologics-forge-1.20.1-2.2.2.jar'
 name = 'Ecologics'
 side = 'both'
-
-[download]
 hash = '9339d69bacaea6706287a941ff9fdb983244d3ce96091b43ec6e1f5b735ddda3b764ead9fc095fe16e668a016271aba504de85120f6780c79d019670a4e3a0b8'
 hash-format = 'sha512'
 mode = 'url'

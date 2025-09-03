@@ -1,8 +1,6 @@
 filename = 'car-forge-1.20.1-1.0.34.jar'
 name = 'Ultimate Car Mod'
 side = 'both'
-
-[download]
 hash = '0dd2b16e28c504a668b8f1f4cdeff049e024d0170fea0c2dd7813b22d41b866c8872a9806ff7339291ce50eecad9fad1fc17b962f4cafbb1f6eaffc3bead0adf'
 hash-format = 'sha512'
 mode = 'url'

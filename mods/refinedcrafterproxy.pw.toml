@@ -1,8 +1,6 @@
 filename = 'refinedcrafterproxy-4.1.2.jar'
 name = 'Refined Crafter Proxy'
 side = 'both'
-
-[download]
 hash = '4993325d6744f56234aa81e5ecfdfbb695f9b7aebd490c237ae410f8f0f88f2bc15b7199489c6a217174ce13d2470ba91051ca51e01cd0c355f687946083184d'
 hash-format = 'sha512'
 mode = 'url'

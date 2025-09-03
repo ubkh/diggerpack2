@@ -1,8 +1,6 @@
 filename = 'create-metalwork-1.20.1-1.0.10-forge.jar'
 name = 'Create: Metalwork'
 side = 'both'
-
-[download]
 hash = '14fc1db60bf096f5c9cd191f9654e13493cee16dd699a20020cb9f35affbf32da6b8f55e19df18332fe25a12e2e892532d91b1e4f694343da14af886cf0a554e'
 hash-format = 'sha512'
 mode = 'url'

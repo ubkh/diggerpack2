@@ -1,8 +1,6 @@
 filename = 'refinedcooking-4.0.0.jar'
 name = 'Refined Cooking'
 side = 'both'
-
-[download]
 hash = '80ee76232716c1c2900ac42f77a97e4e958b3f31bbc045c2b5963a30f39a39af15ce0c4ebb2109c0647b4de5c9683fd071d84eaee2a11f6b03e0249487cd3638'
 hash-format = 'sha512'
 mode = 'url'

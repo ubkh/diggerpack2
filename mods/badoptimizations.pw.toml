@@ -1,8 +1,6 @@
 filename = 'BadOptimizations-2.3.0-1.20.1.jar'
 name = 'BadOptimizations'
 side = 'client'
-
-[download]
 hash = '288638bd5e4d9163205006ddc06eb6d962abcf9c49b602eeef3389e56184deee7844037a7cd41f770d6088a063756380afe1a6c456668356dd56b238834c3c49'
 hash-format = 'sha512'
 mode = 'url'

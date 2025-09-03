@@ -1,8 +1,6 @@
 filename = 'upgradedadditionaltrims-1.20.1-1.0.0.4-release.jar'
 name = 'Upgraded Additional Trims'
 side = 'both'
-
-[download]
 hash = '8aab2a594d522491183c5280efb16023f4f15acb'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

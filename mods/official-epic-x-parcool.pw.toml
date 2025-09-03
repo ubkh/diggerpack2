@@ -1,8 +1,6 @@
 filename = 'epic x parcool-forge-20.11.0.1-1.20.1.jar'
 name = '[Official] Epic x ParCool'
 side = 'both'
-
-[download]
 hash = 'cff38f4b68da522a7c4e7f5b0c586771614d2ae918d8ee3add7982146600c7b49e457b4d7247d19f21eef64893e3178fcbfe984f82f088767d9228fc49773e2b'
 hash-format = 'sha512'
 mode = 'url'

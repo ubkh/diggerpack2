@@ -1,8 +1,6 @@
 filename = 'additionallanterns-1.1.2-forge-mc1.20.2.jar'
 name = 'Additional Lanterns'
 side = 'both'
-
-[download]
 hash = 'c30053984d1d0e329ae92db99bd6c1b0ee60d6e5'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

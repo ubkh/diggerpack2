@@ -1,8 +1,6 @@
 filename = 'walkers-5.7.jar'
 name = 'woodwalkers'
 side = 'both'
-
-[download]
 hash = 'e597f15c80afbdde7927692d9b526cb6b3907fb7ad3eb83af16fab3ce57def6abdcbd8546f0bfb9fdc198c8facaf1fe4e6b074e6363f2d2fd747aff422bdb165'
 hash-format = 'sha512'
 mode = 'url'

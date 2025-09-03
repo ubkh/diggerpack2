@@ -1,8 +1,6 @@
 filename = 'balm-forge-1.20.1-7.3.34-all.jar'
 name = 'Balm'
 side = 'both'
-
-[download]
 hash = '50bebe4fc5e18e733f3d85ea094c1cb2b079446db1524139fc594080f4cb8bef7908bf3e62455080aeb5256de17ddb68fa91bfe7a550b68820cf51e146f82b7d'
 hash-format = 'sha512'
 mode = 'url'
