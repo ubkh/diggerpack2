@@ -1,9 +1,6 @@
 filename = 'Nuclear Science-1.20.1-0.6.2-7.jar'
 name = 'Nuclear Science'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'c1c9d5e4d6b277f59f9b611ed51b5ecf187ceb6e231a89decde532d568d53c4bd442a187525240503b58bd1872a928e6e6041a77514f863d337d8da694f303b4'

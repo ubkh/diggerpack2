@@ -1,9 +1,6 @@
 filename = 'aileron-1.20.1-forge-1.1.1.jar'
 name = 'Aileron'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'eabe3b715ecfa58b6debfd85ecd6cb365571b7b32cf81f5efa1b48099ce9f5492ad756aee1fe136e044908f6ad569e088c258f6c7f649b55159301bf6dc245ad'

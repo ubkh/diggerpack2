@@ -1,9 +1,6 @@
 filename = 'ironchests-5.0.2-forge.jar'
 name = 'Iron Chests: Restocked'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '948a446b1e65776a4184df89fdc7d3af424bf53ef62cef7fdd03c51a8ebefc8be78c1027ad073d0bc21d003ef85e84318b184bdcf90ef8f497ffaafb6942f6e1'

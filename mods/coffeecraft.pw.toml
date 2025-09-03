@@ -1,9 +1,6 @@
 filename = 'coffeecraft-1.20.1-1.0.2.jar'
 name = 'CoffeeCraft'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '48ed86757120b784d1d6dd597647bcf6df92fd0674c55185486b3d0d9e3c4fa13fad305cd1ba19db9e223db2d4a5654465fb7127f6942cd7731ea587bbac749a'

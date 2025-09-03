@@ -1,9 +1,6 @@
 filename = 'refinedstorageaddons-0.10.0.jar'
 name = 'Refined Storage Addons'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '19730e347b7d7252f9ff0f91ab79d952760be5b4973d20ffd5dec2a6311073d69d8606b45c151f04aa3c688de109bffa76c9e550baf9a65a17e30a3f73a768b7'

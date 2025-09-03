@@ -1,9 +1,6 @@
 filename = 'ancient_aether-0.9.10.jar'
 name = 'Ancient Aether'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
 
 [download]
 hash = '71c5c2111ca350243f974443420b0776ee3404aca6809ca84c2b4ae9a92083dc2d01a942046e5e09314eef2e0fad61b23c33295b37a5b9291d0567aface7c027'

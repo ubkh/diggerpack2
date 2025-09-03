@@ -1,9 +1,6 @@
 filename = 'additionallanterns-1.1.2-forge-mc1.20.2.jar'
 name = 'Additional Lanterns'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'c30053984d1d0e329ae92db99bd6c1b0ee60d6e5'

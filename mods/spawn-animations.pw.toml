@@ -1,8 +1,6 @@
 filename = 'spawnanimations-v1.11-mc1.17-1.21.8-mod.jar'
 name = 'Spawn Animations'
 side = 'server'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [
     '1.17',
     '1.17.1',
     '1.17.1 Pre-Release 1',
@@ -232,7 +230,6 @@ x-prismlauncher-mc-versions = [
     '25w09b',
     '25w10a'
 ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'c7e78d362861ff7b658e6d31134e03b083ad12c59687e8c693d26b0915a485847523177be9c0a071e74ffa382b548fec54d721e31a37c7c7645df268acfa123f'

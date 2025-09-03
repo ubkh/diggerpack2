@@ -1,9 +1,6 @@
 filename = 'CreateCasing-1.20.1-1.6.2-fix3.jar'
 name = 'Create Encased'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '13178657dac9bade89d091341e97a1599940a1665c0783429be65e5e41b5aff980edaa25de6268c4d789fde7da14302d974b745f5a5ffde59a1086674b21a75d'

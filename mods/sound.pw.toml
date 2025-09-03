@@ -1,9 +1,6 @@
 filename = 'Sounds-2.2.1+1.20.1+forge.jar'
 name = 'Sounds'
 side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'f8195ec5f9611f9b96c5a23cfd81cb09bd1ea2721533aa768e550cf14c870b1dd384b6b04f012d0d5a09af1701d3cdc87ffad047e4ab5d2138094f60405b586c'

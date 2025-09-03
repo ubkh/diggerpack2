@@ -1,9 +1,6 @@
 filename = 'CustomNPCs-1.20.1-GBPort-Unofficial-20250830.jar'
 name = 'CustomNPCs-Unofficial'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '68b75fce2a8e8bac90bdd26b7304fff25c5884a1'

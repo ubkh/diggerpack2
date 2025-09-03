@@ -1,9 +1,6 @@
 filename = 'ritchiesprojectilelib-2.1.0+mc.1.20.1-forge.jar'
 name = "Ritchie's Projectile Library"
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'a717edbfb9e47009db9c526e0563a65ceae7d18d5cca3547d7d2f1011bdc703566ed69c92b8435775ffbbaa002d05f873bdd49f062d45c350b61b814a36056b1'

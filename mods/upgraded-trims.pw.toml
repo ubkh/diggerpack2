@@ -1,9 +1,6 @@
 filename = 'upgradedtrims-1.20.1-1.0.0.4-release.jar'
 name = 'Upgraded Trims'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'db60db95caf6f8501090f1df46956130ba20aa72'

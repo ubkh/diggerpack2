@@ -1,9 +1,6 @@
 filename = 'globalpacks-forge-1.20.1-19.3.5.jar'
 name = 'Global Packs'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.19.3', '1.19.4', '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '03f81e348ef380f202b3c86700a8498016154f2a8ac95532aa877cb1e28e92a4b413ff69bff43f478540a865a08cf38221f30e44ec6680a6a84121d10d030f1f'

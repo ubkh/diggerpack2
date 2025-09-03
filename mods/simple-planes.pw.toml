@@ -1,9 +1,6 @@
 filename = 'simpleplanes-1.20.1-5.3.0.jar'
 name = 'Simple Planes'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'bbf248ab35aefea94f9640db576cfa304d1dadc9a9ad765af8d9d1909a097ea3c7d89ff4fb1483b6a4456046a96439bd690ddfa9801092486971c3f46b47a57f'

@@ -1,9 +1,6 @@
 filename = 'automobility-0.4.2+1.20.1-forge.jar'
 name = 'Automobility'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
 
 [download]
 hash = '96aec122a35e12891054f246435f0ff27b5e759942545e25839bb6da54e7b3544c81297bbe77d14692b0a31af9d5ab70d7c13de7e92e288b15abf9c7e8832ef4'

@@ -1,9 +1,6 @@
 filename = 'mns-1.0.1-1.20-forge.jar'
 name = "MNS - Moog's Nether Structures"
 side = 'server'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '42286637deff6d4d9c6aa53bd78383c063ea20610c164bdc1fb3fd5d55cd6e64ba13988c541cce902dc073f26529cb6f8f9917c9447c13f24602e7afd63ba75b'

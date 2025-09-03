@@ -1,9 +1,6 @@
 filename = 'charmofundying-forge-6.5.0+1.20.1.jar'
 name = 'Charm of Undying'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '193c52f2c3b983973b739f0ad6d9736735a8b7ec912a015f70a1804b55a1443f6a5830f0e894b5b399c15361f38fe67177391e39e6174dba34d67ffdf7ae2e44'

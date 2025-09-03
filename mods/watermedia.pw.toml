@@ -1,9 +1,6 @@
 filename = 'watermedia-2.1.30.jar'
 name = 'WATERMeDIA'
 side = 'client'
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.16.5', '1.18.2', '1.19.2', '1.20.1', '1.21.1', '1.21.5' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '4793fd5c1f9896679eb03ff9f2a1aa244f242bf5eef4b90f156d79a10b2883de878bc7a63f423a13f4bfcd1d7e8b8e2113970f7eebd53421d55c0ceb1b87a1ca'

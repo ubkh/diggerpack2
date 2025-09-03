@@ -1,9 +1,6 @@
 filename = 'create-food-1.20.1-1.1.9-forge.jar'
 name = 'Create: Food'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '6ddc8b882551fce7925c2da8ee56b5ad040b34049ba90437fbd8b235fa05b005a99d75f08fa105efe527a52431723989f460777f9300a0b57f73cf558b4bd812'

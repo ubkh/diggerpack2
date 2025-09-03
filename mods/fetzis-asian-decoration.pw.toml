@@ -1,9 +1,6 @@
 filename = 'fetzisasiandeco-forge-1.7.2b.jar'
 name = "Fetzi's Asian Decoration"
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '714d5502f1375a511ee3fa4c525b6de8897fa3cd'

@@ -1,9 +1,6 @@
 filename = 'itemcollectors-1.1.11-forge-mc1.20.2.jar'
 name = 'Item Collectors'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'ec2c687020ddfd3917546f5464ff0c672023a62aa7228a13b76b18fe071b3f308a4642982061b2a9ede383293d2dc2615c69910d23fab7e85bc2b3e1169b2bed'

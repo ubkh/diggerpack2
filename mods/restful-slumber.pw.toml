@@ -1,8 +1,6 @@
 filename = 'restful-slumber-4.0.jar'
 name = 'Restful Slumber'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [
     '1.20',
     '1.20.1',
     '1.20.2',
@@ -17,7 +15,6 @@ x-prismlauncher-mc-versions = [
     '1.21.4',
     '1.21.5'
 ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'fb720890fa27d2243ec15ac0bdb6bd6610ae90b13763425f7e766664d2b5caa90e69f2abe68d30d2a9f7ce9aaf9f81bc2b97a0a8a874f176e3c6022043a9b40f'

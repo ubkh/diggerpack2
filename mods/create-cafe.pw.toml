@@ -1,9 +1,6 @@
 filename = 'createcafe-1.2.4-1.20.1.jar'
 name = 'Create Cafe'
 side = 'server'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '80b9e644493b30baa23ada604fcb08fc599eea2f55a9ae18a1b145f864087237d1231ce61b02969b23998b9cb94d88f5b3f5555083fddb3685637e5e7e98f2a1'
