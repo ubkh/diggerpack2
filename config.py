@@ -7,9 +7,11 @@ import os
 ROOT_COPY_PATH = os.path.expanduser("~/Library/Application Support/PrismLauncher/instances/dp2/minecraft")
 
 # A list of additional directories and files to copy from the ROOT_COPY_PATH.
-# These will be copied to the `MODS_DIR` folder.
+# These will be copied to the current working directory.
 ADDITIONAL_COPY_PATHS = [
     "config",
+    "resources",
+    "options.txt"
 ]
 
 # The name of the directory containing the .pw.toml files relative to the ROOT_COPY_PATH.
@@ -33,6 +35,21 @@ SIGNIFY_SECRET_KEY = "sig/dp2.sec"
 
 # The main packwiz configuration file to be signed.
 PACKWIZ_CONFIG_FILE = "pack.toml"
+
+# --- Unknown Mods Configuration ---
+# The base URL where your unknown mod files are hosted.
+UNKNOWN_MODS_URL_BASE = "https://ubkh.github.io/diggerpack2/unknown-mods"
+
+# A list of unknown mods with their metadata.
+# Each dictionary should contain 'filename', 'name', and 'side'.
+UNKNOWN_MODS_TOML_DATA = [
+    {'bclib': 'bclib.jar', 'name': 'BCLib', 'side': 'both'},
+    {'better-end': 'better_end.jar', 'name': 'Better End', 'side': 'both'},
+    {'chunksfadein': 'chunksfadein.jar', 'name': 'Chunks Fade In', 'side': 'client'},
+    {'drivebywire': 'drivebywire.jar', 'name': 'Drive By Wire', 'side': 'both'},
+    {'trackwork-plus': 'trackwork_plus.jar', 'name': 'Trackwork +', 'side': 'both'},
+]
+
 
 # --- Scripts to run ---
 # A list of the python scripts to be run in order.

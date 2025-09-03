@@ -1,6 +1,8 @@
 import os
 import shutil
 import subprocess
+import hashlib
+import toml
 from config import *
 
 def run_script(script_name):
@@ -39,6 +41,58 @@ def copy_items(source_root, destination_root, items):
             shutil.copy2(source_path, dest_path)
             print(f"Copied file '{item}' to '{dest_path}'.")
 
+def generate_toml_for_unknown_mods():
+    """
+    Creates .pw.toml files for unknown mods and copies them to the mods directory.
+    """
+    print(f"\n--- Processing unknown mods in '{UNKNOWN_MODS_DIR}' ---")
+    
+    if not os.path.exists(UNKNOWN_MODS_DIR):
+        print(f"Warning: Directory '{UNKNOWN_MODS_DIR}' not found. Skipping unknown mods.")
+        return
+
+    for mod_data in UNKNOWN_MODS_TOML_DATA:
+        filename = mod_data.get('filename')
+        name = mod_data.get('name')
+        side = mod_data.get('side', 'both')
+        
+        if not filename or not name:
+            print(f"Error: Skipping unknown mod with incomplete data: {mod_data}")
+            continue
+
+        mod_jar_path = os.path.join(UNKNOWN_MODS_DIR, filename)
+        if not os.path.exists(mod_jar_path):
+            print(f"Warning: JAR file '{filename}' not found in '{UNKNOWN_MODS_DIR}'. Skipping.")
+            continue
+
+        # Calculate SHA256 hash of the JAR file
+        sha256_hash = hashlib.sha256()
+        with open(mod_jar_path, "rb") as f:
+            for byte_block in iter(lambda: f.read(4096), b""):
+                sha256_hash.update(byte_block)
+        
+        # Construct the TOML content
+        toml_content = {
+            "name": name,
+            "filename": filename,
+            "side": side,
+            "download": {
+                "url": f"{UNKNOWN_MODS_URL_BASE}{filename}",
+                "hash": sha256_hash.hexdigest(),
+                "hash-format": "sha256",
+                "mode": "url"
+            }
+        }
+        
+        # Write the TOML content to a new file in the mods directory
+        toml_filename = f"{os.path.splitext(filename)[0]}.pw.toml"
+        toml_path = os.path.join(MODS_DIR, toml_filename)
+        
+        with open(toml_path, "w") as toml_file:
+            toml.dump(toml_content, toml_file)
+        
+        print(f"Created TOML file for '{filename}' at '{toml_path}'.")
+
 def main():
     """Main function to run the modpack construction pipeline."""
     
@@ -69,8 +123,8 @@ def main():
             shutil.copy2(source_path, dest_path)
     print(f"Copied .pw.toml files from {source_mods_path} to {MODS_DIR}.")
 
-    # Copy files from unknown-mods
-    copy_items(UNKNOWN_MODS_DIR, MODS_DIR, os.listdir(UNKNOWN_MODS_DIR) if os.path.exists(UNKNOWN_MODS_DIR) else [])
+    # --- Process unknown mods ---
+    generate_toml_for_unknown_mods()
     
     # --- Step 2: Run Scripts ---
     for script in SCRIPTS:
