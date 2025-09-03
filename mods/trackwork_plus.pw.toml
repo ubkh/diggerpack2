@@ -1,0 +1,9 @@
+name = "Trackwork +"
+filename = "trackwork_plus.jar"
+side = "both"
+
+[download]
+url = "https://ubkh.github.io/diggerpack2/unknown-mods/trackwork_plus.jar"
+hash = "4ed7d138fe9018c0e09931fec2588d84680aacbf7d83ec466bdbdaf412b9f290"
+hash-format = "sha256"
+mode = "url"

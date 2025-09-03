@@ -1,0 +1,9 @@
+name = "Drive By Wire"
+filename = "drivebywire.jar"
+side = "both"
+
+[download]
+url = "https://ubkh.github.io/diggerpack2/unknown-mods/drivebywire.jar"
+hash = "6034d32d5b58d3fd8596676262165a7af3246e54abf23cc3e611366dd3f322ca"
+hash-format = "sha256"
+mode = "url"

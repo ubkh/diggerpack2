@@ -127,6 +127,8 @@ def main():
     generate_toml_for_unknown_mods()
     
     # --- Step 2: Run Scripts ---
+    print(f"\n--- Step 2: Running scripts ---")
+
     for script in SCRIPTS:
         run_script(script)
 

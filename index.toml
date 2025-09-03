@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config.py"
-hash = "ea430720d19ac4209f6b8252d906e6222eeb11387d507bc0fa375d6b5ec5a5e3"
+hash = "6e3d69545af66defc6583e7d259c66e330452ba8bc29020c2bfb090eb879e63b"
 
 [[files]]
 file = "config/Advancedperipherals/general.toml"
@@ -3750,8 +3750,9 @@ hash = "4c00cf774ef09ad114d18017b08f11a3a5fdab6ebe123da5996aae06aea1e6d5"
 metafile = true
 
 [[files]]
-file = "mods/bclib-3.0.14.jar"
-hash = "391fa2a8d7e369b088c66d1f230c3951e1d83f19d60555b2efea5394d8bcfc51"
+file = "mods/bclib.pw.toml"
+hash = "68a7ca41682c9880d66ed32f74e7ce8f575814aeb44ac600ccf4e309e229013a"
+metafile = true
 
 [[files]]
 file = "mods/beautiful-enchanted-books-mod-edition.pw.toml"
@@ -3779,10 +3780,6 @@ hash = "018ec711962aca9f094a49faf35c35281a15e34258da97dd726678a9e0e96e68"
 metafile = true
 
 [[files]]
-file = "mods/better-end-4.0.11.jar"
-hash = "285feee4a2602ac66f7b4d92f0d972ac872aec513c2b61a8f6f447ca3dc08420"
-
-[[files]]
 file = "mods/better-f3.pw.toml"
 hash = "ddf6c17c31d143973dd9342fe53619ba4133426c4c99374e714bf25c9e7948dc"
 metafile = true
@@ -3795,6 +3792,11 @@ metafile = true
 [[files]]
 file = "mods/better_dogs_x_doggy_talents_next.pw.toml"
 hash = "1b448961ebba0493086280b48d85f8f3887497d87a636a06014ec49b7840cd80"
+metafile = true
+
+[[files]]
+file = "mods/better_end.pw.toml"
+hash = "c1009df2664e8127c7ecce6839fd184a77ef2e6e614b204d727a4b0633a334f5"
 metafile = true
 
 [[files]]
@@ -3928,8 +3930,9 @@ hash = "1a6f129a6eaf7e20ff60c99c487f0060fa7f253ba990ee487c4c83549ff2c626"
 metafile = true
 
 [[files]]
-file = "mods/chunksfadein-1.0.7-1.20.1.jar"
-hash = "6057f77a8455121ae1473e02c55429e586d8511af57934ffdc4f96eea1ef13a3"
+file = "mods/chunksfadein.pw.toml"
+hash = "dcf9494d60b09fcfba3ce61b348435d4118ba6a8a95725556856e99413091d6e"
+metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
@@ -4277,8 +4280,9 @@ hash = "da70d5db44c49c75485d9840a5d264b8e623a66b74af1745a650128154604143"
 metafile = true
 
 [[files]]
-file = "mods/drivebywire-1.20.1-0.0.10 (1).jar"
-hash = "6034d32d5b58d3fd8596676262165a7af3246e54abf23cc3e611366dd3f322ca"
+file = "mods/drivebywire.pw.toml"
+hash = "706b547ccdd5961d775cc0cdbb64cc3419e462da0f42b8306d4fad5d712facf6"
+metafile = true
 
 [[files]]
 file = "mods/easy-anvils.pw.toml"
@@ -5351,8 +5355,9 @@ hash = "c794cb2050f9567d71093a6901181fd63e3e108948029c17e2ded69ee9b2674a"
 metafile = true
 
 [[files]]
-file = "mods/trackwork_plus-1.20.1-1.0.0.jar"
-hash = "4ed7d138fe9018c0e09931fec2588d84680aacbf7d83ec466bdbdaf412b9f290"
+file = "mods/trackwork_plus.pw.toml"
+hash = "1eddd61d8825f80b2120cec68d4176b0c079768f61307af25b30b849eb78de9f"
+metafile = true
 
 [[files]]
 file = "mods/trajans-core.pw.toml"
@@ -5563,3 +5568,7 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "9af25c4ee4edc482d4f8a1171ee5c80055a3e0118172377e5ef6a70cba863560"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "a5d17055adf45a6f4c18f02d3ef1a227a27e4da368b2c11bf6d47cc224775e7a"

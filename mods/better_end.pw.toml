@@ -1,0 +1,9 @@
+name = "Better End"
+filename = "better_end.jar"
+side = "both"
+
+[download]
+url = "https://ubkh.github.io/diggerpack2/unknown-mods/better_end.jar"
+hash = "285feee4a2602ac66f7b4d92f0d972ac872aec513c2b61a8f6f447ca3dc08420"
+hash-format = "sha256"
+mode = "url"
