@@ -1,13 +1,13 @@
-filename = 'hero-proof-5.2.1.jar'
-name = 'Hero Proof'
-side = 'server'
+filename = "hero-proof-5.2.1.jar"
+name = "Hero Proof"
+side = "both"
 
 [download]
-hash = '78fa13ad8859f9cca3e64ccb61c0bebbd21d7ab3ec86f6f54a79b9cd5d4a22995d32c970e6ac5ca7ccfacd857b3402f84bf129ff4c6ae32ccf522eaef1edd17f'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/GDmztpJg/versions/PG9VUROT/hero-proof-5.2.1.jar'
+hash = "78fa13ad8859f9cca3e64ccb61c0bebbd21d7ab3ec86f6f54a79b9cd5d4a22995d32c970e6ac5ca7ccfacd857b3402f84bf129ff4c6ae32ccf522eaef1edd17f"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/GDmztpJg/versions/PG9VUROT/hero-proof-5.2.1.jar"
 
 [update.modrinth]
-mod-id = 'GDmztpJg'
-version = 'PG9VUROT'
+mod-id = "GDmztpJg"
+version = "PG9VUROT"

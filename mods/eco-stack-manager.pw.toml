@@ -1,13 +1,13 @@
-filename = 'eco_stack_manager-forge-1.20.1-1.4.1.jar'
-name = 'Eco Stack Manager'
-side = 'server'
+filename = "eco_stack_manager-forge-1.20.1-1.4.1.jar"
+name = "Eco Stack Manager"
+side = "both"
 
 [download]
-hash = 'da054f089a01aaec01797a3974ba5f0bc0b760511a5c263422fb0ae38fd8eabe474ab537c3ee878d57720a689f846302b74588640eb4e6231e8c1753436fd7ec'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/YfTOSsIw/versions/vkd781M2/eco_stack_manager-forge-1.20.1-1.4.1.jar'
+hash = "da054f089a01aaec01797a3974ba5f0bc0b760511a5c263422fb0ae38fd8eabe474ab537c3ee878d57720a689f846302b74588640eb4e6231e8c1753436fd7ec"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/YfTOSsIw/versions/vkd781M2/eco_stack_manager-forge-1.20.1-1.4.1.jar"
 
 [update.modrinth]
-mod-id = 'YfTOSsIw'
-version = 'vkd781M2'
+mod-id = "YfTOSsIw"
+version = "vkd781M2"
