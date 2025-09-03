@@ -1,5 +1,13 @@
 # .packwizignore follows the same format as .gitignore, and can be used to exclude unwanted files from pack exports
 # See https://git-scm.com/docs/gitignore
 
-# Exclude README
 /README.md
+dp2
+sig
+
+check_mods.py
+fix_urls.py
+strip_toml.py
+
+unsup.ini
+unsup.sig

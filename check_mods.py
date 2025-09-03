@@ -1,45 +1,51 @@
 import os
 import toml
-import urllib.parse
+
+## Updated Check for Malformed URLs
 
 def check_for_malformed_url(file_path, data):
     """
     Checks if a download URL is malformed due to unencoded characters.
     """
-    if 'download' in data and 'url' in data['download']:
-        url = data['download']['url']
+    # Check for the presence of download and url keys before attempting to access them
+    if not ('download' in data and 'url' in data['download']):
+        return False
         
-        # Check for unencoded characters that should be percent-encoded
-        if ' ' in url or '[' in url or ']' in url:
-            print(f"Warning: Malformed URL found in {file_path}")
-            print(f"Reason: URL contains unencoded spaces or brackets.")
-            print(f"URL: {url}")
-            return True
-    return False
+    url = data['download']['url']
+    issues_found = False
+
+    # Check for specific unencoded characters that should be percent-encoded
+    if ' ' in url:
+        print(f"Warning: Malformed URL in {file_path}. Reason: Contains unencoded spaces.")
+        issues_found = True
+    if '[' in url:
+        print(f"Warning: Malformed URL in {file_path}. Reason: Contains unencoded '['.")
+        issues_found = True
+    if ']' in url:
+        print(f"Warning: Malformed URL in {file_path}. Reason: Contains unencoded ']'.")
+        issues_found = True
+
+    return issues_found
+
+## Check for Missing Keys
 
 def check_for_missing_keys(file_path, data):
     """
     Checks a .pw.toml file for missing required keys.
     """
-    required_sections = ['download']
-    required_keys = {
-        'download': ['url']
-    }
-    
     issues_found = False
-
-    for section in required_sections:
-        if section not in data:
-            print(f"Error: Missing section '[{section}]' in {file_path}")
-            issues_found = True
-            continue
-
-        for key in required_keys[section]:
-            if key not in data[section]:
-                print(f"Error: Missing key '{key}' in section '[{section}]' in {file_path}")
-                issues_found = True
     
+    # Check for the download section first, as it's the root of your previous errors
+    if 'download' not in data:
+        print(f"Error: Missing section '[download]' in {file_path}")
+        issues_found = True
+    elif 'url' not in data['download']:
+        print(f"Error: Missing key 'url' in section '[download]' in {file_path}")
+        issues_found = True
+
     return issues_found
+
+## Main Logic
 
 def main():
     mods_dir = 'mods'
@@ -59,7 +65,7 @@ def main():
                 
                 # Run all checks
                 issues = check_for_missing_keys(file_path, data)
-                if not issues: # Only check for URL malformation if basic keys are present
+                if not issues:
                     check_for_malformed_url(file_path, data)
 
             except toml.TomlDecodeError as e:

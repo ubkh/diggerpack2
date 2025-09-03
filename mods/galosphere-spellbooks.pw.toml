@@ -6,7 +6,7 @@ side = "both"
 hash = "f87209b335777ef0292da8bcfda2f1b2650c2064650360dc48354567875900022eca5fe7289b4c83f6e03e3908d8c2e098b4f495fb862493ff20ae86b9b82334"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/39Nrer0H/versions/JbbFKxYN/galosphere_spellbooks-1.1.0%20%25281%2529.jar"
+url = "https://cdn.modrinth.com/data/39Nrer0H/versions/JbbFKxYN/galosphere_spellbooks-1.1.0%20%281%29.jar"
 
 [update.modrinth]
 mod-id = "39Nrer0H"
