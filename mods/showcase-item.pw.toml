@@ -1,0 +1,16 @@
+filename = 'showcaseitem-1.20.1-1.2.jar'
+name = 'Showcase Item'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '255c51b15703de0e7b6c4ea6ee4e00cbadf830619ea5eb872144c2a29ca7b60f7727bff5899b7a035448dad4dda4cc57ae2a4b3a112bea4ac6fb1da88016ee66'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/P5Jjjezm/versions/Q5HI3IfP/showcaseitem-1.20.1-1.2.jar'
+
+[update.modrinth]
+mod-id = 'P5Jjjezm'
+version = 'Q5HI3IfP'

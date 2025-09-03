@@ -1,0 +1,16 @@
+filename = 'gnumus_settlement_[Forge]1.20.1_v1.0.jar'
+name = 'Gnumus Settlement'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '058b7f35e0b91fe8b946cffe80bb28e5270bfb41'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5012952
+project-id = 720397

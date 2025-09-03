@@ -1,0 +1,16 @@
+filename = 'northstar-tn-2.1.1-create5.jar'
+name = 'Create True North'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0cd69bcd071fe76822fcb25d0d421fa769e9f9c7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6917375
+project-id = 1296214

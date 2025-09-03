@@ -1,0 +1,16 @@
+filename = 'chamber_clarity-3.0.0-1.20.1.jar'
+name = '[TaC:Z] Chamber Clarity'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '30dd4502eb5efe2723154ebeb327a6c2b217325933204b25176dadd22ab4dd7a9172fe29495d0f084a4d2476725f7f6a182bd27e296b0e39be0d455acd9c31bb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ka02nVNv/versions/MUjqXrLw/chamber_clarity-3.0.0-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Ka02nVNv'
+version = 'MUjqXrLw'

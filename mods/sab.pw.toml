@@ -1,0 +1,16 @@
+filename = 's_a_b-1.4.3.jar'
+name = 'Create: Steel armor blocks'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '20abb08bed36c420bc9e6ed2d16f70d9dad29a949e184e0e78f4cf61eed67f0e0420383b2bc78dc657b4fa3c8d88c19e7948fb420a4dc807697dad3d0feacd9a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VwYIUgbk/versions/tdI7YuZL/s_a_b-1.4.3.jar'
+
+[update.modrinth]
+mod-id = 'VwYIUgbk'
+version = 'tdI7YuZL'

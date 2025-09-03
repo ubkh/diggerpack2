@@ -1,0 +1,16 @@
+filename = 'mighty_mail-forge-1.20.1-1.1.4.jar'
+name = 'Mighty Mail'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '43af108f39831eb75280b63e0819a1b1176abda8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6777569
+project-id = 902986

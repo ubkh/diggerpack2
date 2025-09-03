@@ -1,0 +1,16 @@
+filename = 'cbcmodernwarfare-0.0.6c+mc.1.20.1-forge.jar'
+name = 'CBCModernWarfare'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '02733114518d81e4b5b3631292146f9cef4849f69dd9dfef3f9b4beeed1b53a1b82d2c891a5bc6210183ce618359f50e508b566b312e8b88f480e2bb40a91171'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KL57SLEk/versions/5sOw07Lr/cbcmodernwarfare-0.0.6c%2Bmc.1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'KL57SLEk'
+version = '5sOw07Lr'

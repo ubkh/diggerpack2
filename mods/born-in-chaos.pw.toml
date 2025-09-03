@@ -1,0 +1,16 @@
+filename = 'born_in_chaos_[Forge]1.20.1_1.7.2.jar'
+name = 'Born in Chaos'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a8bda4c4fc29a190221877ea60820b60a1cc186f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6833957
+project-id = 686437

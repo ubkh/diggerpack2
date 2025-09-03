@@ -1,0 +1,16 @@
+filename = 'ClockworkAdditions-1.20.1-0.0.6-multiloader.jar'
+name = 'Clockwork Additions'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'e06d250cd7c267b0947e4b7b48f85d1a665bb80bb447c164b65cf9082520fa38988e97d8c80f5c61c79fd5398a23f756fa7986881613412c7c6e071dc31e1c94'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cjtNBuoS/versions/M6DNu3LO/ClockworkAdditions-1.20.1-0.0.6-multiloader.jar'
+
+[update.modrinth]
+mod-id = 'cjtNBuoS'
+version = 'M6DNu3LO'

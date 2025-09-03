@@ -1,0 +1,16 @@
+filename = 'trajanscore-1.6-1.20.1.jar'
+name = "Trajan's Core (Forge)"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ae66b50c29568c0967576e521c214e1b9a6aad05'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6040590
+project-id = 626570

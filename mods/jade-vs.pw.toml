@@ -1,0 +1,16 @@
+filename = 'Jade-VS-forge-1.20.1-1.2.2.jar'
+name = 'Jade VS'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f31321a9ec9a184a199d6a353227aa2bcd44ea60747dda397baf738b287f2c1f25755b335e82797965b014adfedbc74d47eab91fb80189fe35af9558bdf0b412'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zNKzjsZM/versions/YuioEgEN/Jade-VS-forge-1.20.1-1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'zNKzjsZM'
+version = 'YuioEgEN'

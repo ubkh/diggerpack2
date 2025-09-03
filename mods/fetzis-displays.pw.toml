@@ -1,0 +1,16 @@
+filename = 'fetzisdisplays-forge-1.0.0.jar'
+name = "Fetzi's Displays"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cc6e8da269812f62a741102fe81c78c69aa1d8f7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6499938
+project-id = 1257994
