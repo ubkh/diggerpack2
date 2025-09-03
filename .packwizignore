@@ -11,6 +11,7 @@ check_mods.py
 fix_urls.py
 strip_toml.py
 update_side.py
+sanitise_filenames.py
 start.py
 config.py
 

@@ -5578,7 +5578,7 @@ hash = "9af25c4ee4edc482d4f8a1171ee5c80055a3e0118172377e5ef6a70cba863560"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Fancy Crops v1.2.zip"
+file = "resourcepacks/Fancy_Crops_v1.2.zip"
 hash = "20714e3d349c1028200abcb0326da0fad6b43bc581956225414a8b319c064847"
 
 [[files]]
@@ -5586,13 +5586,13 @@ file = "resourcepacks/FreshAnimations_v1.10.1.zip"
 hash = "2e2f0152469fcaac19c46f2959e0232f9b2c12a255e0481d85f845ecba003692"
 
 [[files]]
-file = "resourcepacks/Fusion Block Transitions v1.0.1 for Minecraft 1.20-1.21.8.zip"
+file = "resourcepacks/Fusion_Block_Transitions_v1.0.1_for_Minecraft_1.20-1.21.8.zip"
 hash = "8086af74ed8c7e5b5b33bf1d30ddf7c600375b4dfb59ac10e1a538692b252a4a"
 
 [[files]]
-file = "resourcepacks/Fusion Connected Blocks v1.0.1 for Minecraft 1.20-1.21.8.zip"
+file = "resourcepacks/Fusion_Connected_Blocks_v1.0.1_for_Minecraft_1.20-1.21.8.zip"
 hash = "11cd62665109e4b8b27f3f691180f035e4e66de0dc0a2ca4b85a615d53255ba3"
 
 [[files]]
-file = "resourcepacks/Fusion Connected Glass v1.0.0 for Minecraft 1.20-1.21.8.zip"
+file = "resourcepacks/Fusion_Connected_Glass_v1.0.0_for_Minecraft_1.20-1.21.8.zip"
 hash = "0d5902494e210af3684a7db43d36360f0f852396f227cdafb0cc61c7e1951fe8"

@@ -14,6 +14,12 @@ ADDITIONAL_COPY_PATHS = [
     "datapacks"
 ]
 
+# Directories to sanitise the filenames from
+SANITISE_DIRS = [
+    "resourcepacks",
+    "datapacks"
+]
+
 # The name of the directory containing the .pw.toml files relative to the ROOT_COPY_PATH.
 SOURCE_MODS_DIR_NAME = "mods/.index"
 
@@ -57,5 +63,6 @@ SCRIPTS = [
     "strip_toml.py",
     "fix_urls.py",
     "update_side.py",
-    "check_mods.py"
+    "check_mods.py",
+    "sanitise_filenames.py"
 ]

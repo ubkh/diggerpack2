@@ -1,4 +1,5 @@
-# This file is part of Diggerpack 2. Copyright (C) 2025 Ubayd Khan
+# This file is part of Diggerpack 2. 
+# Copyright (C) 2025 Ubayd Khan
 
 import os
 import shutil
