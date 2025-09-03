@@ -1,6 +1,8 @@
 filename = 'refinedbossbars-1.1.jar'
 name = 'Refined Bossbars'
 side = 'client'
+
+[download]
 hash = '55b1879d673752414b457febd87125df4eb2cf76eadb7d626d550f8315d5230322480dac6b9680585103e190f1a8f3ce978f4fdea036f2e2c22bbaac0d192bcc'
 hash-format = 'sha512'
 mode = 'url'

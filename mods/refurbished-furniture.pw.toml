@@ -1,6 +1,8 @@
 filename = 'refurbished_furniture-forge-1.20.1-1.0.14.jar'
 name = "MrCrayfish's Furniture Mod: Refurbished"
 side = 'both'
+
+[download]
 hash = 'b4aa83b3ad88939625da29c0adbad7eddc88c148'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

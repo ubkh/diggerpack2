@@ -1,6 +1,8 @@
 filename = 'AdChimneys-1.20.1-10.1.20.0-build.1504.jar'
 name = 'Advanced Chimneys'
 side = 'both'
+
+[download]
 hash = 'cb4af81c2015fef792eb20a33b047cc3f5959321'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

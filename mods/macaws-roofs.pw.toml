@@ -1,6 +1,8 @@
 filename = 'mcw-roofs-2.3.2-mc1.20.1forge.jar'
 name = "Macaw's Roofs"
 side = 'both'
+
+[download]
 hash = 'ff7d8be7efb2c427dba8898ed181804b93d2d7523227a190a4c100370f485e5e734c83930b6888652c9469bf01b89a3c7fd2cd00e37c5b6021ec9bd3aa6ea3e3'
 hash-format = 'sha512'
 mode = 'url'

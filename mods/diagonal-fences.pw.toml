@@ -1,6 +1,8 @@
 filename = 'DiagonalFences-v8.1.5-1.20.1-Forge.jar'
 name = 'Diagonal Fences'
 side = 'both'
+
+[download]
 hash = '3c3266729f531939a9aba47e28fe910875a78755'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

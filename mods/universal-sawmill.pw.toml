@@ -1,6 +1,8 @@
 filename = 'sawmill-1.20-1.4.8.jar'
 name = 'Sawmill'
 side = 'both'
+
+[download]
 hash = '879b365b809ee2edfb27dcf2538d620bc784968358a54db9f2b6379296c72f5aec5b9a139d8cdccd114a3c4b36a4e73c64b975d30cf6b4ed118b0fa3e41ed30c'
 hash-format = 'sha512'
 mode = 'url'

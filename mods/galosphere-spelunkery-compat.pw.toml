@@ -1,6 +1,8 @@
 filename = 'Compat_Galosphere-Spelunkery.jar'
 name = 'Galosphere - Spelunkery Compat'
 side = 'both'
+
+[download]
 hash = '27b95bad2e76b367ce369704003c6e6b459f76f821ee2345dbb382643f0ff5e11d395c950be954e47ceb3f51bb30205514bfe814743f9374f07aa43c68cf5bc4'
 hash-format = 'sha512'
 mode = 'url'

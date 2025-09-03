@@ -1,6 +1,8 @@
 filename = 'RSInfinityBooster-1.20.1-1.0+41.jar'
 name = 'RSInfinityBooster'
 side = 'both'
+
+[download]
 hash = '17f76c74072c04caa37ab0ef0daace46d858166b7de8ef4030092e2becb65e63ceba3b6aaefb2e00c35e863a3a6adb2f923edfa4f5104c3c7dd250f02e07df04'
 hash-format = 'sha512'
 mode = 'url'

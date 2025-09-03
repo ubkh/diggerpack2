@@ -1,6 +1,8 @@
 filename = 's_a_b_r_tfmg-0.1-1.20.1.jar'
 name = 'Steel Armor Blocks Recipes: TFMG'
 side = 'both'
+
+[download]
 hash = 'be2fa0cae219cae4540ed8f585e41b587516ddd3'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

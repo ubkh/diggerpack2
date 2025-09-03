@@ -1,6 +1,8 @@
 filename = 'fetzisdisplays-forge-1.0.0.jar'
 name = "Fetzi's Displays"
 side = 'both'
+
+[download]
 hash = 'cc6e8da269812f62a741102fe81c78c69aa1d8f7'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

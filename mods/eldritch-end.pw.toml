@@ -1,6 +1,8 @@
 filename = 'Eldritch_End-FORGE-MC1.20.1-0.3.4.jar'
 name = 'Eldritch End'
 side = 'both'
+
+[download]
 hash = '66477bdca2c673bf09702b2a9a7ac211160edb17e1877bc4cd0364540d22c96ac3251503fc77262f53d6ca9f449d78b329a227c4d2146134eadd6c0a47fdac45'
 hash-format = 'sha512'
 mode = 'url'

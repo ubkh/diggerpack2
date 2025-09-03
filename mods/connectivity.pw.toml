@@ -1,6 +1,8 @@
 filename = 'connectivity-1.20.1-7.1.jar'
 name = 'Connectivity'
 side = 'both'
+
+[download]
 hash = 'd4f2165b6c34439d110111c71d774f19d6947261'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

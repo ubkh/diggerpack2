@@ -1,6 +1,8 @@
 filename = 'Byzantine-1.21.1-36.jar'
 name = 'Byzantine Styles Pack for Minecolonies'
 side = 'both'
+
+[download]
 hash = 'b571e14050b309bb2ac6ac1ef7c017625fcb207c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

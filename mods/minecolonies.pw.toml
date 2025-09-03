@@ -1,6 +1,8 @@
 filename = 'minecolonies-1.20.1-1.1.1028-snapshot.jar'
 name = 'MineColonies'
 side = 'both'
+
+[download]
 hash = 'd1c32671194627340c5ed4c9ae8ec306de6c6980'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

@@ -1,6 +1,8 @@
 filename = 'Modular Forcefields-1.20.1-0.2.1-1.jar'
 name = 'Modular Force Field Systems'
 side = 'both'
+
+[download]
 hash = '06ad0c1653719afb179b55b81c689461b39bef166d0d182790bea43e5c37c54b4a4b7bac97179b791b976edae26c51519f891a46b677bf200507ea2b2143e638'
 hash-format = 'sha512'
 mode = 'url'

@@ -1,6 +1,8 @@
 filename = 'create_jetpack-forge-4.3.0.jar'
 name = 'Create Jetpack'
 side = 'both'
+
+[download]
 hash = '76969f734d699aed3b5b452c05b034fa8f2236201e0404369d94add227d174323eab0fbcdb5e13799c2e844d00aacd02454063bb48e4c8e27ab4b79d1a93e59d'
 hash-format = 'sha512'
 mode = 'url'

@@ -1,6 +1,8 @@
 filename = 'inventorysorter-1.20.1-23.1.9.jar'
 name = 'Inventory Sorter (Configurable)'
 side = 'both'
+
+[download]
 hash = '897467b59369d52bbbb38ab50cf1018371ca766187587bcee7c12708a8ab9cd58140b0d13040aba3fa512f602492056305d3c6287af17a6220c76d3f48dbb566'
 hash-format = 'sha512'
 mode = 'url'

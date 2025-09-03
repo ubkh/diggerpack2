@@ -1,6 +1,8 @@
 filename = 'Warium 1.0.7.jar'
 name = 'Warium'
 side = 'both'
+
+[download]
 hash = '660b098ccda110dc0e0b1c1213181a9cf40965222b8be6ab4d684f63f5b98c8f9a1ef9143242f70d99db272789409159c435a687e14f8930e30568dac394049f'
 hash-format = 'sha512'
 mode = 'url'

@@ -1,6 +1,8 @@
 filename = 'doubledoors-1.20.1-7.1.jar'
 name = 'Double Doors'
 side = 'server'
+
+[download]
 hash = 'd5d649121e56227642b3171bde535948dbdc294d215498e17327456e1cb7b07ec6c54c96d340a17b9f492c78a32e26f2d243159df41876b5df3933c9531425f6'
 hash-format = 'sha512'
 mode = 'url'

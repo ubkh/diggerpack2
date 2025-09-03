@@ -1,6 +1,8 @@
 filename = 'roost-1.1.0.jar'
 name = 'Roost Re-hatched'
 side = 'both'
+
+[download]
 hash = '750acc71712f45d681a6655221be217dd46f796adccf78d23a148e2b28cdfadf97ea584cefbd562324d441733569e780bb2cdb4fbcb4a547329a512ec8604b3f'
 hash-format = 'sha512'
 mode = 'url'

@@ -1,6 +1,8 @@
 filename = 'mighty_mail-forge-1.20.1-1.1.4.jar'
 name = 'Mighty Mail'
 side = 'both'
+
+[download]
 hash = '43af108f39831eb75280b63e0819a1b1176abda8'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

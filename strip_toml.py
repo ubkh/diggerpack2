@@ -2,15 +2,16 @@ import os
 
 def strip_toml_lines(file_path):
     """
-    Reads a TOML file, strips specific lines, including multi-line arrays.
+    Reads a TOML file, strips specific lines, and writes the changes back.
     """
     lines_to_keep = []
-    skip_lines = False
     
     with open(file_path, 'r') as file:
         lines = file.readlines()
     
-    for line in lines:
+    i = 0
+    while i < len(lines):
+        line = lines[i]
         stripped_line = line.strip()
 
         # Check for the start of the keys to be stripped
@@ -18,19 +19,21 @@ def strip_toml_lines(file_path):
             stripped_line.startswith("x-prismlauncher-mc-versions") or
             stripped_line.startswith("x-prismlauncher-release-type")):
             
-            # Check if the line is an array and set the skip_lines flag
+            # This is the line we want to remove. Now, check if it's an array.
             if '[' in stripped_line:
-                skip_lines = True
-            
-            continue # Skip this line
-        
-        # If we are skipping lines due to a multi-line array, check for the end
-        if skip_lines:
-            if ']' in stripped_line:
-                skip_lines = False
-            continue # Skip this line
-        
+                # If it's an array, we need to skip lines until we find the closing bracket.
+                i += 1
+                while i < len(lines):
+                    current_line = lines[i].strip()
+                    if ']' in current_line:
+                        break # Found the end of the array, so we stop skipping.
+                    i += 1
+            # In all cases, we continue to the next line to avoid adding the key line itself.
+            i += 1
+            continue
+
         lines_to_keep.append(line)
+        i += 1
 
     with open(file_path, 'w') as file:
         file.writelines(lines_to_keep)

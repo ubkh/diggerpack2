@@ -1,6 +1,8 @@
 filename = 'amendments-1.20-2.2.0.jar'
 name = 'Amendments'
 side = 'both'
+
+[download]
 hash = '3ebc40903feb3d4fb931baa84f6647089e94bc46f218011c7474e9ad4e6f4c16d6a0dd33e791b10c79b06fba19df4bce730c90cb502d6ac351ef5351e716d601'
 hash-format = 'sha512'
 mode = 'url'

@@ -1,6 +1,8 @@
 filename = 'letsdo-lilis_lucky_lures-forge-1.0.2.jar'
 name = "[Let's Do] Lili's Lucky Lures"
 side = 'both'
+
+[download]
 hash = '6f25f83f7f6aea91cc6ad42eb5ac717c00edb1b410a553adebd329ead61ec0959b4fd80ad07dd27fedf7c5cf2175f21fca2ddf728f497e6b1ecd5f6a51f1d3e0'
 hash-format = 'sha512'
 mode = 'url'

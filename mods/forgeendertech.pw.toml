@@ -1,6 +1,8 @@
 filename = 'ForgeEndertech-1.20.1-11.1.8.0-build.1486.jar'
 name = 'ForgeEndertech'
 side = 'both'
+
+[download]
 hash = '55060168a6b4ddb1158dc9d07f4bfa608be04e87'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

@@ -1,6 +1,8 @@
 filename = 'refinedpolymorph-0.1.1-1.20.1.jar'
 name = 'Refined Polymorphism'
 side = 'both'
+
+[download]
 hash = '5400332ce0ed346e16bf96af11c17d09769bea705747cd5484f23f2043176e67f15a0b61a3e329ce65afd4052752f173e1a8ffc5884c88c44e709c6a8e163603'
 hash-format = 'sha512'
 mode = 'url'

@@ -1,6 +1,8 @@
 filename = 'DoggyTalentsNext-1.20.1-1.18.54.jar'
 name = 'Doggy Talents Next'
 side = 'both'
+
+[download]
 hash = '29ee5d7f2266841ef4b230472009f78015e2a06cb440848d839dc7f2853a9e9abd24c18c37e65898d7b072368ec21e470cd7be20bd06e7bca481aea329d73069'
 hash-format = 'sha512'
 mode = 'url'

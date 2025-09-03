@@ -1,6 +1,8 @@
 filename = 'fetzisasiandeco-forge-1.7.2b.jar'
 name = "Fetzi's Asian Decoration"
 side = 'both'
+
+[download]
 hash = '714d5502f1375a511ee3fa4c525b6de8897fa3cd'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

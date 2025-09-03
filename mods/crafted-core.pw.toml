@@ -1,6 +1,8 @@
 filename = 'craftedcore-5.8.jar'
 name = 'CraftedCore'
 side = 'both'
+
+[download]
 hash = 'cdef7b7c09d6ca5a2bcbdeb0374167baf4e2ae920565e7b394af5243722482fb1d76ee4de2821c964ba664c5b736c03762be59ff5977243857fafc911bdfcc4f'
 hash-format = 'sha512'
 mode = 'url'

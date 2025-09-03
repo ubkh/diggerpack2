@@ -1,6 +1,8 @@
 filename = 'rftoolspower-1.20-6.0.2.jar'
 name = 'RFTools Power'
 side = 'both'
+
+[download]
 hash = '683c33900ef60bd33120401991d7c797048529b610891944d66b88673e4df0d5abb7688cc1dbd16bc0ba14a31e0d18d5df0bd526ed069c9b9cb0185ed3d81b78'
 hash-format = 'sha512'
 mode = 'url'

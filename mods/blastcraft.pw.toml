@@ -1,6 +1,8 @@
 filename = 'Blastcraft-1.20.1-0.4.1-0.jar'
 name = 'Blastcraft'
 side = 'both'
+
+[download]
 hash = '755b8dd488044dbcd52279780f152272274915ddfc81f594bf3d05ba93480d62571f16f3d4e682eefe664bea10880605fea6da17664d572048f2902286c27628'
 hash-format = 'sha512'
 mode = 'url'

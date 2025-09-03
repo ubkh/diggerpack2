@@ -1,6 +1,8 @@
 filename = 'upgradedcore-1.20.1-5.0.0.2-release.jar'
 name = 'Upgraded Core'
 side = 'both'
+
+[download]
 hash = '6d58c76bd51da389c9a8b655a7624bf633ca82eb'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

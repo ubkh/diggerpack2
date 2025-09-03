@@ -1,6 +1,8 @@
 filename = 'displaydelight-1.2.0.jar'
 name = 'Display Delight'
 side = 'both'
+
+[download]
 hash = '81d9309e870713f5ea46371767fcd9f373228390fd780915c8017f8f87ba42777ee5b118673f32396a0613e497b201ed938a8d97ab47378c787764923b2236a1'
 hash-format = 'sha512'
 mode = 'url'

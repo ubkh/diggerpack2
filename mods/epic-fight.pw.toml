@@ -1,6 +1,8 @@
 filename = 'epicfight-forge-20.11.11-1.20.1.jar'
 name = 'Epic Fight'
 side = 'both'
+
+[download]
 hash = 'cdaa51a9fa364c2a89b056ba19735384b67c1a344e18d3c02661d955c375c4c1d988dcc62bdc4f48dc6752ec56d5eacf97dd453d6466c82332f3f40afc483cf5'
 hash-format = 'sha512'
 mode = 'url'

@@ -1,6 +1,8 @@
 filename = 'infinitybuttons-1.20.1-4.0.7.jar'
 name = 'Infinity Buttons'
 side = 'both'
+
+[download]
 hash = '9ad162fa6389f8e2c1378c7bf5d2c579a5a1edcc44e6c1cf139a37816feb5ff8b03389ef035803ce5e63b2c6855f5740e54504b5d4e86f1b2a91ff3ff9874ff1'
 hash-format = 'sha512'
 mode = 'url'

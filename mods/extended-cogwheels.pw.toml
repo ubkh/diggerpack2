@@ -1,6 +1,8 @@
 filename = 'extendedgears-2.1.1-1.20.1-0.5.1.f-forge.jar'
 name = 'Create: Extended Cogwheels'
 side = 'both'
+
+[download]
 hash = '0b8915ca5018a4c31f106469e5026971f0a804d642c3a11ddf2eae3c55be6bb6118685bf58bbce7e6041fcb5fd399ca4bd21095c2d65e7a2542a61c10de44fac'
 hash-format = 'sha512'
 mode = 'url'

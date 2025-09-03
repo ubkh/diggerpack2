@@ -1,6 +1,8 @@
 filename = 'simpleshops-1.2.2.jar'
 name = 'Simple Shops'
 side = 'both'
+
+[download]
 hash = '8751f9a178b3002e746b2f30af75dd83281821ee'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

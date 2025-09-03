@@ -1,6 +1,8 @@
 filename = 'worldplaytime-1.2.3-1.20.x-FORGE.jar'
 name = 'World Play Time'
 side = 'client'
+
+[download]
 hash = '8828f99c9e5288570429a24272e22a30ba861e3fd8f199e138a381b147669e5e1795550b7632454aeb339c38a7297fad2fe6a74f33c17246c69bcae983474fe3'
 hash-format = 'sha512'
 mode = 'url'

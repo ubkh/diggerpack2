@@ -1,6 +1,8 @@
 filename = 'notenoughanimations-forge-1.10.1-mc1.20.1.jar'
 name = 'Not Enough Animations'
 side = 'client'
+
+[download]
 hash = 'bee73667587c2a952507b6feb7f5d5288559583a5f2547388678c3b03aabf9862f41bf44943ce7d7cf17dba6edaa6b62c676a2173b387a73e1c66577c72aafa5'
 hash-format = 'sha512'
 mode = 'url'

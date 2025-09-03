@@ -1,6 +1,8 @@
 filename = 'watermedia-2.1.30.jar'
 name = 'WATERMeDIA'
 side = 'client'
+
+[download]
 hash = '4793fd5c1f9896679eb03ff9f2a1aa244f242bf5eef4b90f156d79a10b2883de878bc7a63f423a13f4bfcd1d7e8b8e2113970f7eebd53421d55c0ceb1b87a1ca'
 hash-format = 'sha512'
 mode = 'url'

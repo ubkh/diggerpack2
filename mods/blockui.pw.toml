@@ -1,6 +1,8 @@
 filename = 'blockui-1.20.1-1.0.193.jar'
 name = 'BlockUI'
 side = 'both'
+
+[download]
 hash = 'b3b361140fbe5c5f96b56df22f8db2e8c6ac4a9c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

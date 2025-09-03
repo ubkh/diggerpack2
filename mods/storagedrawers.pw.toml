@@ -1,6 +1,8 @@
 filename = 'Storage Drawers-forge-1.20.1-12.11.5.jar'
 name = 'Storage Drawers'
 side = 'both'
+
+[download]
 hash = 'ae3812de62d1532b0e6febf31764840fd9019c5ecc1836fcc5c09f743c6a2476f040bdb6723e19f1c71d92c23810d76b181039ffee3b927ef2732bf3fc624f42'
 hash-format = 'sha512'
 mode = 'url'

@@ -1,6 +1,8 @@
 filename = 'collective-1.20.1-8.3.jar'
 name = 'Collective'
 side = 'both'
+
+[download]
 hash = '11263db68965bd7d727284ecfd84047d0085c647af1aa8903896946515742ae5ced21cf3b46497dcf5e35ff1f0db646dad2bc330b9c3997cf75b304d34e4f745'
 hash-format = 'sha512'
 mode = 'url'

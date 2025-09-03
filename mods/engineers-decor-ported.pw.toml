@@ -1,6 +1,8 @@
 filename = 'engineersdecor-1.3.31.jar'
 name = "Engineer's Decor Ported"
 side = 'both'
+
+[download]
 hash = 'babedde553ca19baaa83e94aff424ab70d043ac2'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

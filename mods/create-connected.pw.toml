@@ -1,6 +1,8 @@
 filename = 'create_connected-0.9.4-mc1.20.1-all.jar'
 name = 'Create: Connected'
 side = 'both'
+
+[download]
 hash = '267942c1c36fe4e40e1e5d54e98f03a476287009a62b30fdb7d2347106cc654244bb7ab5d66fedc702cc01988596e8c289229cddba58e8901225083cece8787e'
 hash-format = 'sha512'
 mode = 'url'

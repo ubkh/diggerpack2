@@ -1,6 +1,8 @@
 filename = 'FastSuite-1.20.1-5.1.0.jar'
 name = 'FastSuite'
 side = 'both'
+
+[download]
 hash = '3a759dce0ddc91e299027faa800c0ee40ab90de8'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'

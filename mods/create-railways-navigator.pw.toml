@@ -1,6 +1,8 @@
 filename = 'createrailwaysnavigator-forge-1.20.1-beta-0.8.4.jar'
 name = 'Create Railways Navigator'
 side = 'both'
+
+[download]
 hash = 'e3c18c77467df65bb0abe0404222dc7760736f25bfa79ff559e7c624ac53e5196b3562c61b1dc579231ba52326db68d399b4e031d7d1602d87de0ca15f9904b4'
 hash-format = 'sha512'
 mode = 'url'

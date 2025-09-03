@@ -1,6 +1,8 @@
 filename = 'accelerated-decay-forge-3.0.1+mc1.20.1.jar'
 name = 'Accelerated Decay'
 side = 'both'
+
+[download]
 hash = '89c85950e991cac0d8a17c46ac8fdc221acc0bd7'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
