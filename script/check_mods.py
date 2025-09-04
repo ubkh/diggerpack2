@@ -40,7 +40,7 @@ def check_for_missing_keys(file_path, data):
         print(f"Error: Missing section '[download]' in {file_path}")
         issues_found = True
     elif 'url' not in data['download']:
-        print(f"Error: Missing key 'url' in section '[download]' in {file_path}")
+        print(f"Warning: Missing key 'url' in section '[download]' in {file_path}")
         issues_found = True
 
     return issues_found

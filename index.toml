@@ -21,6 +21,10 @@ file = "config/CustomNpcs.cfg"
 hash = "dd40b57586557a77d69279b7b47b81f0d167245d714587176f1f1a78a3deb807"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "562071027faf500516d3ef180e3e39143bdefa0306bc12c6a54953cb778f7521"
+
+[[files]]
 file = "config/Hexerei-client.toml"
 hash = "7d12c0046fcaea165680eb9842fc06de03e832d93c2aa218286616bb29738501"
 
@@ -3235,11 +3239,6 @@ hash = "f97fe8f1533bbb7cfc7810876de90c2e16ce3dd4707be0eff48ffb039addaf60"
 metafile = true
 
 [[files]]
-file = "mods/better-compatibility-checker.pw.toml"
-hash = "018ec711962aca9f094a49faf35c35281a15e34258da97dd726678a9e0e96e68"
-metafile = true
-
-[[files]]
 file = "mods/better-f3.pw.toml"
 hash = "ddf6c17c31d143973dd9342fe53619ba4133426c4c99374e714bf25c9e7948dc"
 metafile = true
@@ -4361,7 +4360,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "1f0c788f1cfbfe2bfdb299c5bbe93e7f080b0ee2f9d042632518b1b7871e5d8b"
+hash = "5d32a2737af9b1d0fa23440390d77bd561802f60f5bbae65218fad5cb6eab10a"
 metafile = true
 
 [[files]]
@@ -4671,7 +4670,7 @@ metafile = true
 
 [[files]]
 file = "mods/status-effect-bars-reforged.pw.toml"
-hash = "faf650f23f4f0cb8b91e9c3644a9ad404a33734b734cfda93990fbe22dee82e0"
+hash = "9718b944f7b81d716b0d12ec1690ad7976b53ab7d0a4be2ced27b2b6ea7e93dc"
 metafile = true
 
 [[files]]
