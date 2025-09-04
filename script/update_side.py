@@ -1,5 +1,14 @@
 import os
+import sys
 import toml
+
+# Get the path of the parent directory
+parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+
+# Add the parent directory to the system path
+sys.path.append(parent_dir)
+
+from config import MODS_DIR, CLIENT_PATCH_FILE, SERVER_PATCH_FILE, SERVER_BLACKLIST_FILE
 
 def get_base_filename(filename):
     """
@@ -13,42 +22,48 @@ def main():
     """
     Main function to orchestrate the process.
     """
-    mods_dir = 'mods'
-    client_patch_file = 'client_patch.txt'
-    server_blacklist_file = 'server_blacklist.txt'
-
-    if not os.path.exists(mods_dir):
-        print(f"Error: The directory '{mods_dir}' does not exist.")
+    if not os.path.exists(MODS_DIR):
+        print(f"Error: The directory '{MODS_DIR}' does not exist.")
         return
 
     # Load mod names to be patched or blacklisted into sets for quick lookup
     client_mods_to_patch = set()
     server_mods_to_blacklist = set()
+    server_mods_to_patch = set()
 
-    if os.path.exists(client_patch_file):
-        with open(client_patch_file, 'r') as f:
+    if os.path.exists(CLIENT_PATCH_FILE):
+        with open(CLIENT_PATCH_FILE, 'r') as f:
             for line in f:
                 mod_name = line.strip()
                 if mod_name:
                     client_mods_to_patch.add(mod_name)
     else:
-        print(f"Warning: The file '{client_patch_file}' does not exist. Skipping client patch.")
+        print(f"Warning: The file '{CLIENT_PATCH_FILE}' does not exist. Skipping client patch.")
 
-    if os.path.exists(server_blacklist_file):
-        with open(server_blacklist_file, 'r') as f:
+    if os.path.exists(SERVER_PATCH_FILE):
+        with open(SERVER_PATCH_FILE, 'r') as f:
+            for line in f:
+                mod_name = line.strip()
+                if mod_name:
+                    server_mods_to_patch.add(mod_name)
+    else:
+        print(f"Warning: The file '{SERVER_PATCH_FILE}' does not exist. Skipping server patch.")
+
+    if os.path.exists(SERVER_BLACKLIST_FILE):
+        with open(SERVER_BLACKLIST_FILE, 'r') as f:
             for line in f:
                 mod_name = line.strip()
                 if mod_name:
                     server_mods_to_blacklist.add(mod_name)
     else:
-        print(f"Warning: The file '{server_blacklist_file}' does not exist. Skipping server blacklist.")
+        print(f"Warning: The file '{SERVER_BLACKLIST_FILE}' does not exist. Skipping server blacklist.")
     
     print("\nStarting mod side update process...")
     
     # Iterate through each .pw.toml file only once
-    for filename in os.listdir(mods_dir):
+    for filename in os.listdir(MODS_DIR):
         if filename.endswith('.pw.toml'):
-            file_path = os.path.join(mods_dir, filename)
+            file_path = os.path.join(MODS_DIR, filename)
             
             try:
                 with open(file_path, 'r') as f:
@@ -66,6 +81,15 @@ def main():
                         updated = True
                         print(f"Updated '{mod_filename_in_file}' to side='both' in {file_path}")
                     client_mods_to_patch.remove(mod_filename_in_file)
+
+
+                # Check if the mod is in the server patch list
+                if mod_filename_in_file in server_mods_to_patch:
+                    if current_side != 'server':
+                        data['side'] = 'both'
+                        updated = True
+                        print(f"Updated '{mod_filename_in_file}' to side='both' in {file_path}")
+                    server_mods_to_patch.remove(mod_filename_in_file)
 
                 # Check if the mod is in the server blacklist
                 if mod_filename_in_file in server_mods_to_blacklist:
@@ -90,6 +114,11 @@ def main():
     if client_mods_to_patch:
         print("\nWarning: The following mods were not found for client patching:")
         for name in client_mods_to_patch:
+            print(f"- {name}")
+
+    if server_mods_to_patch:
+        print("\nWarning: The following mods were not found for server patching:")
+        for name in server_mods_to_patch:
             print(f"- {name}")
             
     if server_mods_to_blacklist:

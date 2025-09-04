@@ -66,3 +66,7 @@ SCRIPTS = [
     "check_mods.py",
     "sanitise_filenames.py"
 ]
+
+CLIENT_PATCH_FILE = "client_patch.txt"
+SERVER_PATCH_FILE = "server_patch.txt"
+SERVER_BLACKLIST_FILE = "server_blacklist.txt"
