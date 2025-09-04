@@ -11,13 +11,15 @@ ROOT_COPY_PATH = os.path.expanduser("~/Library/Application Support/PrismLauncher
 ADDITIONAL_COPY_PATHS = [
     "config",
     "resourcepacks",
-    "datapacks"
+    "datapacks",
+    "global_packs"
 ]
 
 # Directories to sanitise the filenames from
 SANITISE_DIRS = [
     "resourcepacks",
-    "datapacks"
+    "datapacks",
+    "global_packs"
 ]
 
 # The name of the directory containing the .pw.toml files relative to the ROOT_COPY_PATH.
@@ -58,6 +60,7 @@ UNKNOWN_MODS_TOML_DATA = [
     {'filename': 'create_track_map.jar', 'name': 'Create Track Map', 'side': 'server'},
     {'filename': 'packwiz_updater.jar', 'name': 'Packwiz Updater', 'side': 'server'},
     {'filename': 'simple_backups.jar', 'name': 'Simple Backups', 'side': 'server'},
+    {'filename': 'jedz.jar', 'name': 'JEDZ', 'side': 'both'},
 ]
 
 

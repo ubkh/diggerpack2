@@ -79,7 +79,7 @@ element {
 
 element {
   interactable = true
-  source = Diggerpack &l{"placeholder":"randomtext","values":{"source":"/config/fancymenu/assets/dp_version.txt","interval":"10"}} &cPREVIEW
+  source = Diggerpack &l{"placeholder":"randomtext","values":{"source":"/config/fancymenu/assets/dp_version.txt","interval":"10"}} &c
   source_mode = direct
   shadow = true
   scale = 1.0
