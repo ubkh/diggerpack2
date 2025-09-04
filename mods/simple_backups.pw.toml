@@ -1,0 +1,9 @@
+name = "Simple Backups"
+filename = "simple_backups.jar"
+side = "server"
+
+[download]
+url = "https://ubkh.github.io/diggerpack2/unknown-mods/simple_backups.jar"
+hash = "4f17582c2e372ea76de9a0c35d9d16df534018b5055528798bd3b17f9487dc76"
+hash-format = "sha256"
+mode = "url"

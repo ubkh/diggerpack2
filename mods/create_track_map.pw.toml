@@ -1,0 +1,9 @@
+name = "Create Track Map"
+filename = "create_track_map.jar"
+side = "server"
+
+[download]
+url = "https://ubkh.github.io/diggerpack2/unknown-mods/create_track_map.jar"
+hash = "d138d918fcf2ed2689e58696dfd465f56e00f6d166f30484a0ac04392322db8d"
+hash-format = "sha256"
+mode = "url"

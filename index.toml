@@ -1466,7 +1466,7 @@ hash = "b00ded0ecc4c711aac1b72d3b1a13eb2f7b5da2b6025a82eec88e193bfce8fe5"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b8b739119da61fca0fb52d06ce813c8362f967bb9a0396cd5f6feb240182cdc0"
+hash = "d317ba6e87adb3a735e82321f0498392986d12d118bf2d83f311690db479b1e2"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -3630,6 +3630,11 @@ hash = "614889af085a49a7f464a6b3a2880d20a9cf36c018600b20518b7d9b5064f6cc"
 metafile = true
 
 [[files]]
+file = "mods/create_track_map.pw.toml"
+hash = "68d1074c1536a797938cc88c47e5628fa2c0f87b0aadec861f708a638892d130"
+metafile = true
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "2fcfc5eca5290c69013d33b18115a69fd71033ce0314940e06559671e5ccefff"
 metafile = true
@@ -3821,7 +3826,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "c148ed529026868bdb9faccf11d4184f4994413e9e875d22288968f7bf392e45"
+hash = "463439fb3bfa51f43bfa767d09dab41e23054f8f6e9b85dfdb8dcc2d0c2a8888"
 metafile = true
 
 [[files]]
@@ -4071,7 +4076,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "daa5d56e1492be3f00e0c4d31af94391951433c6cc8d7cd6345a50d747c64b36"
+hash = "852c7c6412dcc048a8164abf1957010ad71d05df87e8f5d91e54ee421cb6d9a5"
 metafile = true
 
 [[files]]
@@ -4335,6 +4340,11 @@ hash = "bd17c369ae8c1dbc671cec9f373a94b5879ec863331988a2c38f505b0b5c32af"
 metafile = true
 
 [[files]]
+file = "mods/packwiz_updater.pw.toml"
+hash = "6aa95740efb46d91482e52185c79a5dd23bf8b25d44b1e71b81902af14142336"
+metafile = true
+
+[[files]]
 file = "mods/paragliders.pw.toml"
 hash = "555f1675b5ea5148675271b9d3da95084ff4c1cb66060cb60c1b72cea928f393"
 metafile = true
@@ -4386,7 +4396,7 @@ metafile = true
 
 [[files]]
 file = "mods/pretty-rain.pw.toml"
-hash = "69936bd5aa5408791386ae23a4a32e234e75be07dc7bec4bac846d94d20368e8"
+hash = "870a83291035979be0aa5592e2ec00f15f5439fccc53a2c792de58a3a6826035"
 metafile = true
 
 [[files]]
@@ -4565,6 +4575,11 @@ hash = "541bc60a9296c81f6e6cbeed9a3837fb04d158eb2e6a191f2be7189d3da61aa5"
 metafile = true
 
 [[files]]
+file = "mods/simple_backups.pw.toml"
+hash = "9ae30a26b2ae109f4087f1d3d1e4daa0cd209b3d33cba491bc272557b2a2c0a1"
+metafile = true
+
+[[files]]
 file = "mods/simply-light.pw.toml"
 hash = "ee8c2f134d54badc81214eefdea5bd34061e4a2385f18e9125d31ffce8826605"
 metafile = true
@@ -4656,7 +4671,7 @@ metafile = true
 
 [[files]]
 file = "mods/status-effect-bars-reforged.pw.toml"
-hash = "45af2c9848013373a31da588e106ade8a3edec998342151885c1cd52c5a2f63b"
+hash = "be0ec3d79d8f1a3f7d551063b361682b50d858456742ae748a4e371684ed6d4e"
 metafile = true
 
 [[files]]
@@ -4966,7 +4981,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "63d4a98250b3640d2883fb0ca0a177d7cff881e1311fb93f4bea1fcfccc76cca"
+hash = "343f9f4167f940369daa43f81447e5b5ab4bea9679f45ff9efc0f3a5a97bb52f"
 metafile = true
 
 [[files]]

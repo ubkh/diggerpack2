@@ -38,7 +38,7 @@ def sanitize_and_update_filenames(directory):
                 print(f"  Updated:  {sanitized_name}")
 
 def main():
-    print("--- Running Filename Sanitization ---")
+    print("Sanitizing filenames...")
     for directory in SANITISE_DIRS:
         print(f"Processing directory: {directory}")
         sanitize_and_update_filenames(directory)

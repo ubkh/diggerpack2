@@ -47,6 +47,7 @@ PACKWIZ_CONFIG_FILE = "pack.toml"
 UNKNOWN_MODS_URL_BASE = "https://ubkh.github.io/diggerpack2/unknown-mods/"
 
 # A list of unknown mods with their metadata.
+# This list also contains server-only mods.
 # Each dictionary should contain 'filename', 'name', and 'side'.
 UNKNOWN_MODS_TOML_DATA = [
     {'filename': 'bclib.jar', 'name': 'BCLib', 'side': 'both'},
@@ -54,6 +55,9 @@ UNKNOWN_MODS_TOML_DATA = [
     {'filename': 'chunksfadein.jar', 'name': 'Chunks Fade In', 'side': 'client'},
     {'filename': 'drivebywire.jar', 'name': 'Drive By Wire', 'side': 'both'},
     {'filename': 'trackwork_plus.jar', 'name': 'Trackwork +', 'side': 'both'},
+    {'filename': 'create_track_map.jar', 'name': 'Create Track Map', 'side': 'server'},
+    {'filename': 'packwiz_updater.jar', 'name': 'Packwiz Updater', 'side': 'server'},
+    {'filename': 'simple_backups.jar', 'name': 'Simple Backups', 'side': 'server'},
 ]
 
 

@@ -1,0 +1,9 @@
+name = "Packwiz Updater"
+filename = "packwiz_updater.jar"
+side = "server"
+
+[download]
+url = "https://ubkh.github.io/diggerpack2/unknown-mods/packwiz_updater.jar"
+hash = "49ddee675d386c48fc561d3746cbe5a179df9f9584557b1b70ee56ec6afe0242"
+hash-format = "sha256"
+mode = "url"
