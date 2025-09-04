@@ -16,4 +16,5 @@ unsup.ini
 unsup.sig
 
 client_patch.txt
+server_patch.txt
 server_blacklist.txt
