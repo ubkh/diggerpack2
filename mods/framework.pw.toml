@@ -1,12 +1,11 @@
-filename = 'framework-forge-1.20.1-0.7.15.jar'
-name = 'Framework'
-side = 'both'
+filename = "framework-forge-1.20.1-0.7.15.jar"
+name = "Framework"
+side = "both"
 
 [download]
-hash = '0963ba5c19634030dbf1358b5c5f5fb341fede73'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "0963ba5c19634030dbf1358b5c5f5fb341fede73"
+hash-format = "sha1"
+mode = "metadata:curseforge"
 
 [update.curseforge]
 file-id = 6531428

@@ -1,12 +1,11 @@
-filename = 'trajanscore-1.6-1.20.1.jar'
+filename = "trajanscore-1.6-1.20.1.jar"
 name = "Trajan's Core (Forge)"
-side = 'both'
+side = "both"
 
 [download]
-hash = 'ae66b50c29568c0967576e521c214e1b9a6aad05'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "ae66b50c29568c0967576e521c214e1b9a6aad05"
+hash-format = "sha1"
+mode = "metadata:curseforge"
 
 [update.curseforge]
 file-id = 6040590

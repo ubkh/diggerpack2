@@ -1,12 +1,11 @@
-filename = 'aethergearexpansion-1.20.1-2.0.1.2-release.jar'
-name = 'Aether Gear Expansion'
-side = 'both'
+filename = "aethergearexpansion-1.20.1-2.0.1.2-release.jar"
+name = "Aether Gear Expansion"
+side = "both"
 
 [download]
-hash = '25f1d457f7cdb4490b39c90930dae983c504cabc'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "25f1d457f7cdb4490b39c90930dae983c504cabc"
+hash-format = "sha1"
+mode = "metadata:curseforge"
 
 [update.curseforge]
 file-id = 5882712

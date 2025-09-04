@@ -1,12 +1,11 @@
-filename = 'Apotheosis-1.20.1-7.4.8.jar'
-name = 'Apotheosis'
-side = 'both'
+filename = "Apotheosis-1.20.1-7.4.8.jar"
+name = "Apotheosis"
+side = "both"
 
 [download]
-hash = 'e508c4724a24f0c80836818fcdd3df6424b1fc40'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "e508c4724a24f0c80836818fcdd3df6424b1fc40"
+hash-format = "sha1"
+mode = "metadata:curseforge"
 
 [update.curseforge]
 file-id = 6461960

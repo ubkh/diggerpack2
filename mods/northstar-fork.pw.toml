@@ -1,12 +1,11 @@
-filename = 'northstar-tn-2.1.1-create5.jar'
-name = 'Create True North'
-side = 'both'
+filename = "northstar-tn-2.1.1-create5.jar"
+name = "Create True North"
+side = "both"
 
 [download]
-hash = '0cd69bcd071fe76822fcb25d0d421fa769e9f9c7'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "0cd69bcd071fe76822fcb25d0d421fa769e9f9c7"
+hash-format = "sha1"
+mode = "metadata:curseforge"
 
 [update.curseforge]
 file-id = 6917375

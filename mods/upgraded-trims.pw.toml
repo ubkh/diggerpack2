@@ -1,12 +1,11 @@
-filename = 'upgradedtrims-1.20.1-1.0.0.4-release.jar'
-name = 'Upgraded Trims'
-side = 'both'
+filename = "upgradedtrims-1.20.1-1.0.0.4-release.jar"
+name = "Upgraded Trims"
+side = "both"
 
 [download]
-hash = 'db60db95caf6f8501090f1df46956130ba20aa72'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "db60db95caf6f8501090f1df46956130ba20aa72"
+hash-format = "sha1"
+mode = "metadata:curseforge"
 
 [update.curseforge]
 file-id = 5699389

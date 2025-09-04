@@ -1,12 +1,11 @@
-filename = 'CustomNPCs-1.20.1-GBPort-Unofficial-20250830.jar'
-name = 'CustomNPCs-Unofficial'
-side = 'both'
+filename = "CustomNPCs-1.20.1-GBPort-Unofficial-20250830.jar"
+name = "CustomNPCs-Unofficial"
+side = "both"
 
 [download]
-hash = '68b75fce2a8e8bac90bdd26b7304fff25c5884a1'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "68b75fce2a8e8bac90bdd26b7304fff25c5884a1"
+hash-format = "sha1"
+mode = "metadata:curseforge"
 
 [update.curseforge]
 file-id = 6944202

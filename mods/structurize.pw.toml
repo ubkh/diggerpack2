@@ -1,12 +1,11 @@
-filename = 'structurize-1.20.1-1.0.781-snapshot.jar'
-name = 'Structurize'
-side = 'both'
+filename = "structurize-1.20.1-1.0.781-snapshot.jar"
+name = "Structurize"
+side = "both"
 
 [download]
-hash = 'e9fabb5b01d91c5bc030687b443f85bc4a0d9862'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "e9fabb5b01d91c5bc030687b443f85bc4a0d9862"
+hash-format = "sha1"
+mode = "metadata:curseforge"
 
 [update.curseforge]
 file-id = 6887040

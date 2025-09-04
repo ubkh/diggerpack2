@@ -4,6 +4,7 @@ import toml
 def fix_url_encoding(file_path):
     """
     Reads a TOML file, fixes the URL encoding, and writes the changes back.
+    Removes the 'url' field if it is empty.
     """
     try:
         with open(file_path, 'r') as f:
@@ -12,16 +13,22 @@ def fix_url_encoding(file_path):
         if 'download' in data and 'url' in data['download']:
             original_url = data['download']['url']
             
-            # Use string replace to fix only the specific characters that cause issues
-            corrected_url = original_url.replace(' ', '%20').replace('[', '%5B').replace(']', '%5D')
-            
-            # Check for changes before writing to avoid unnecessary file writes
-            if original_url != corrected_url:
-                data['download']['url'] = corrected_url
-                
+            # Check if the URL is empty before corrections
+            if original_url.strip() == '':
+                del data['download']['url']
                 with open(file_path, 'w') as f:
                     toml.dump(data, f)
-                print(f"Fixed URL encoding in {file_path}")
+                print(f"Removed empty 'url' field in {file_path}")
+            else:
+                # Use string replace to fix only the specific characters that cause issues
+                corrected_url = original_url.replace(' ', '%20').replace('[', '%5B').replace(']', '%5D')
+                
+                # Check for changes before writing to avoid unnecessary file writes
+                if original_url != corrected_url:
+                    data['download']['url'] = corrected_url
+                    with open(file_path, 'w') as f:
+                        toml.dump(data, f)
+                    print(f"Fixed URL encoding in {file_path}")
 
     except Exception as e:
         print(f"Error processing {file_path}: {e}")
