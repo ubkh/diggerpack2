@@ -3714,11 +3714,6 @@ hash = "ffe518219214137ce613a3104462718d247a780c29514c6a7b2ac4e9cbad9a64"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "f4d7d178e4b347796daa6ba806ae7e23a05a2fae516f946fcd092e72125b35f8"
-metafile = true
-
-[[files]]
 file = "mods/doggy-talents-next.pw.toml"
 hash = "49142d753f24f6f1b1f0e7cdfe0177acd1d601c79a0970861c545049218afcb9"
 metafile = true
