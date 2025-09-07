@@ -715,22 +715,22 @@
         "value": 100
       }
     },
-    "vminus:fire_protection": {
+    "additional_attributes:spell_type_gluttony": {
       "enabled": false,
       "min": {
-        "default": -100,
-        "value": -100
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 100,
         "value": 100
       }
     },
-    "additional_attributes:spell_type_gluttony": {
+    "vminus:fire_protection": {
       "enabled": false,
       "min": {
-        "default": 0,
-        "value": 0
+        "default": -100,
+        "value": -100
       },
       "max": {
         "default": 100,
@@ -1430,17 +1430,6 @@
         "value": 100
       }
     },
-    "vminus:mob_detection_range": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 0,
-        "value": 0
-      }
-    },
     "reach-entity-attributes:attack_range": {
       "enabled": false,
       "min": {
@@ -1461,6 +1450,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "vminus:mob_detection_range": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 0,
+        "value": 0
       }
     },
     "additional_attributes:spell_type_blood_needles": {
@@ -2266,17 +2266,6 @@
         "value": 100
       }
     },
-    "vminus:health_lost_stat_boost": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "epicfight:offhand_impact": {
       "enabled": false,
       "min": {
@@ -2293,6 +2282,17 @@
       "min": {
         "default": 0,
         "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "vminus:health_lost_stat_boost": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
       },
       "max": {
         "default": 100,
