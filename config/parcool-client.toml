@@ -26,6 +26,7 @@
 	can_VerticalWallRun = true
 	can_WallJump = true
 	can_WallSlide = true
+	can_StartSwimByCrawl = true
 
 [Stamina_HUD_Configuration]
 	#Allowed Values: Normal, Light, Hide
@@ -155,6 +156,9 @@
 	#Max number of times of successive Dodge action
 	#Range: > 1
 	successive_dodge_count = 3
+	#Lowest fall distance needed to trigger breakfall movements
+	#Range: 0.0 ~ 10.0
+	lowest_fall_distance_for_breakfall = 2.0
 
 [Modifier]
 	#How long you can do Horizontal Wall Run
@@ -260,4 +264,6 @@
 		stamina_consumption_of_WallJump = 120
 		#Range: 0 ~ 10000
 		stamina_consumption_of_WallSlide = 8
+		#Range: 0 ~ 10000
+		stamina_consumption_of_StartSwimByCrawl = 0
 

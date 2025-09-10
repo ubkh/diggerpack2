@@ -1430,7 +1430,7 @@ hash = "8f6c48cdca6491560915319f0bcde30665b6f9a6dc09095803cbd802bbb653ad"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "73a093e8656f0e8fdbd66af5e8708d7702bde4a22e883e0d462bca9ed4d7c8fc"
+hash = "e227a47127f1889db10e7434fb852a3c13ddb16d08db5f965041ef21bd549011"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
@@ -1834,7 +1834,7 @@ hash = "344aaf500d3a86cc4c335a0b4590792254ae6e0eea0fc8df9ebdad5b95a75b8f"
 
 [[files]]
 file = "config/badoptimizations.txt"
-hash = "a62adb80ec8740110df70a332ee9f082bc362284e959cb3cd8edc7cd76fdd517"
+hash = "621f336fdc8139345b61cbe393f61901f7766f76347cf2d33b191e3f7779db4f"
 
 [[files]]
 file = "config/bakery.toml"
@@ -1998,7 +1998,7 @@ hash = "279bed05cfb80a01dae5f7c2463af944587870624374b74976ba6d3ab7a96896"
 
 [[files]]
 file = "config/bettervillage_1.properties"
-hash = "688351a60bd8142b493b2da1f9887b0e0d97e0addec90cf94378a7369b0fd222"
+hash = "78ed6c4d329774cdd76e50f7185ba6c1e8c3ec8585c6feaacd301b67ed0132e6"
 
 [[files]]
 file = "config/betterwitchhuts-forge-1_20.toml"
@@ -2426,7 +2426,7 @@ hash = "07ccfa8d4edc6928ec566ce42a16d234436ee678b5ddc258431abf265f4f46f7"
 
 [[files]]
 file = "config/epicfight-client.toml"
-hash = "7243f2ad273f630a2fe141e439baec41a7cf5a029c1b16833d1d8b8ab7825e10"
+hash = "77918e716c6afc16146fb3095304a06f443b8a8e5b1075082bab72566b4a2ffa"
 
 [[files]]
 file = "config/epicfight-common.toml"
@@ -2450,7 +2450,7 @@ hash = "7cb19695aa659df3f7ad281486c4d9fe94b1fd4d6f0751c3e29e29947a191b70"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "56bbe7769e197b53b6e3552ad7f0476f9823573c08bd6cb280bc7b1f84eb32f0"
+hash = "05723a77c4aafc2102905349ac408a959402d3600dcd78dbc5c6204b48ef967e"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -2458,7 +2458,7 @@ hash = "283d840754d96d0142455572bee972cd5957f658b1f2b305a8897aa0df8fd74a"
 
 [[files]]
 file = "config/fancymenu/assets/dp_version.txt"
-hash = "03467489b8fb6205988b0a529f9445b67a8cf51049beea3b2ae1ddc725b3d254"
+hash = "31186721be50d1033545dfeee9d6ee118b54fb1b974ea909ab2e960e0b7c049b"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
@@ -2599,6 +2599,22 @@ hash = "515a935b95b575fac97c8ceec7b931c529391565e6afa0179d0e96993d9009d4"
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$small_end_islands.cfg"
 hash = "83998d50d31796f7194e6a4a4872ea5d6e8f71a44dbb6fdaa1aa528453142f01"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$snowy_plains.cfg"
+hash = "5b7eb4d0b3154e2ef034d471caa776204214c4d06f1f0bc90d72d9e8e77a3c14"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$stony_shore.cfg"
+hash = "9b85f9fe7d62fc31b92d9bad47462fba42466d8f8959a0a2b03c02a8722bacd6"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$the_void.cfg"
+hash = "3f0c19e490d4740927f6009a8de040055005121c2f23de1862d1a5a7a06aa8fd"
+
+[[files]]
+file = "config/forgeendertech/Biomes/northstar$lunar_ice_caves.cfg"
+hash = "ada178b477af6084efe60df3e2a71dd42f1a3b7c1c6ae880baf3964440c57f76"
 
 [[files]]
 file = "config/forgeendertech/Biomes/northstar$mercury_basins.cfg"
@@ -2778,7 +2794,7 @@ hash = "89f297cf6f1f8b36ca54e414d3c434949799568a989417908fb5af9cea5fb43f"
 
 [[files]]
 file = "config/ironchests/defaults.properties"
-hash = "73c9cddbfedd424b0ee5ce5be1800aae4271b659b78534ea0de9fc2831970264"
+hash = "30aaa889589f66e04ab448bb0702549fac667706602d0ab16a5423363ec294d6"
 
 [[files]]
 file = "config/ironchests/upgrade_types/copper.json"
@@ -2894,7 +2910,7 @@ hash = "5a1791dfc285628c7dc6a6faf4bfe241c6be682bfa44cdba62208fdb0e64ea04"
 
 [[files]]
 file = "config/libraryferret_1.properties"
-hash = "00d965b981aa175a955530a8fef79d899dfeba3448d2898c28c91b17e32aa249"
+hash = "2059496e39d0e2305e8e81d26bcf6f96a6f2d65ca57a844105eb7d7cbf3ad8cd"
 
 [[files]]
 file = "config/lost_aether_content-client.toml"
@@ -2938,11 +2954,11 @@ hash = "fda82db644ea383536c23b98c52c19e865e28a0fe3abcdd87a70ecc4e5ae748e"
 
 [[files]]
 file = "config/moonlight-client.toml"
-hash = "381d00de50df6253614e057c5a0e9d36a1c757b0ee3d84528f8f44d226daadbd"
+hash = "d72179e3cc4efa998bbebc22a0db20b2e2702c32b0bec07aff48a177c2385995"
 
 [[files]]
 file = "config/moonlight-common.toml"
-hash = "1413ff220da128e11ae5e33fb52b53fe4a723190a402e536345c07c1b021b66a"
+hash = "f28173484cb81557cba16b36b87af8a4ca36592c7570f8e1a524cb453dd7d4fa"
 
 [[files]]
 file = "config/morered-client.toml"
@@ -2966,7 +2982,7 @@ hash = "ed5963ab9132632e89ea83f63f992f793f102d114b77938514d89d255a5754f7"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "78c8c167064d42242c87db94872ac979a96c1c08ab7a1f11b189d804646ce59d"
+hash = "4b3378128d571c7c7aedede84c122e9aa0acc024f59d097a036c05c787994235"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
@@ -2978,11 +2994,11 @@ hash = "c0b43d3f889471a3c73e20613ebe77495b5f9f5de70c0f265690c37de677b421"
 
 [[files]]
 file = "config/paraglider-player-states.toml"
-hash = "be4035731793bd21540784550592819c4d75322052d1aaf58b64e708e03bc238"
+hash = "5d5fc880a2bd716976826828b3944dfe62fd125e13582c2416305b978a3a0c53"
 
 [[files]]
 file = "config/parcool-client.toml"
-hash = "b474c4d65578aa1cd7c665e1aa951320a694b9ef49dd501a3cd6a921cc501087"
+hash = "77f56d645835cd4aa4061bd85c2d5ef8b949c398d70017fddf066ccc95830223"
 
 [[files]]
 file = "config/particle_core_config.toml"
@@ -3030,7 +3046,7 @@ hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
 
 [[files]]
 file = "config/polymorph-integrations.toml"
-hash = "903bdc420ee4feea2efd90ad60c790d1e2f183152a8e42edc9b0dc19beaf7992"
+hash = "47c2b8a65ca08ee0a73400bf6b8ccc0a831b4c220fa95097eff6216456fc511a"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
@@ -3198,7 +3214,7 @@ hash = "2a59c7eec10a06bd35c9cfbc1d615a7319bd46d1ed3d9f2de1696f07770066eb"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "5d7ab34e7c3252d8061ba2afa7933cf538d950c5de2ea072ff4d9e40aa3bab6b"
+hash = "dffa837730bc574896792a0f83161abdcbdf140f9879a485c2fd6203a57bfcf1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -3326,7 +3342,7 @@ hash = "103249151fef996292834f3c4628d929305097d6f4f9da348870a17c167bcd6b"
 
 [[files]]
 file = "config/terrablender.toml"
-hash = "70da8cd57cd321ae43ec3774995de812116c67163c0ae8859965a3599e3aeefa"
+hash = "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480"
 
 [[files]]
 file = "config/thermal-client.toml"
@@ -3533,6 +3549,10 @@ file = "datapacks/CreateChippedCutting312051.zip"
 hash = "aed36dee85c7039add90586b0b9cffe65d01448b617df9e07ff2d4699143adc1"
 
 [[files]]
+file = "datapacks/vs2dragon_crystal_fix.zip"
+hash = "05d09e840eb36adac7491f1a31c2db9a15091d33ee56c0ff011e87e039b0122d"
+
+[[files]]
 file = "datapacks/vsweightfix.zip"
 hash = "e2a531d9a27f0fe290fb9979b188c94b32e539efed2ef07ddfa0ab4b3c3ac04d"
 
@@ -3543,6 +3563,10 @@ hash = "12aef84659512e7a79cd117824b8503df24822485e1fb70d0b48815fc33e8e3e"
 [[files]]
 file = "global_packs/required_data/CreateChippedCutting312051.zip"
 hash = "aed36dee85c7039add90586b0b9cffe65d01448b617df9e07ff2d4699143adc1"
+
+[[files]]
+file = "global_packs/required_data/vs2dragon_crystal_fix.zip"
+hash = "05d09e840eb36adac7491f1a31c2db9a15091d33ee56c0ff011e87e039b0122d"
 
 [[files]]
 file = "global_packs/required_data/vsweightfix.zip"
@@ -4360,7 +4384,7 @@ metafile = true
 
 [[files]]
 file = "mods/epic-fight.pw.toml"
-hash = "0b041202c34ebd7107dcef8f0e476e38b85650cd75a1bde2efb52e8bf90420c7"
+hash = "4df2c67d8e06dc623632f2984de5c2213fb048d8eedaa7af33f488c9cffcda3a"
 metafile = true
 
 [[files]]
@@ -4795,7 +4819,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1ab461f1f18d1bdbb276219de72794b061a439253b9dcc48b30094e92b8d12f4"
+hash = "e64965614db62830a81d69ed20903ebfa62bd285e3763016003db2d74cd0df6f"
 metafile = true
 
 [[files]]
@@ -4895,7 +4919,7 @@ metafile = true
 
 [[files]]
 file = "mods/official-epic-x-parcool.pw.toml"
-hash = "ea28fd40ede598ddc0f9d35867c5d2a214ead44dbbc23dd26137ddc1ca34debc"
+hash = "2295902effd836968f2e2c9d57c6bb8cc8ec580e91d9d632113e70a4a7096b99"
 metafile = true
 
 [[files]]
@@ -4915,7 +4939,7 @@ metafile = true
 
 [[files]]
 file = "mods/parcool.pw.toml"
-hash = "e86b536bddb76f7e9409c8f7b16aaf8783ce77036a312e42f2591a3ec06ea05b"
+hash = "62e44210a35a91ff34ae4ce8f8b7397c2ea4da4358165b8628a6304b3e0044e8"
 metafile = true
 
 [[files]]

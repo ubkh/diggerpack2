@@ -16,7 +16,6 @@ provider = "NULL"
 	blood_effects = true
 	aiming_correction = true
 	show_epicfight_attributes = true
-	use_animation_shader = false
 	first_person_model = true
 	enable_pov_action = true
 	enable_cosmetics = false
@@ -25,6 +24,7 @@ provider = "NULL"
 	show_target_indicator = true
 	#Allowed Values: NONE, HURT, TARGET, TARGET_AND_HURT
 	health_bar_show_option = "HURT"
+	use_animation_shader = false
 
 	[ingame.ui]
 		stamina_bar_x = 120
