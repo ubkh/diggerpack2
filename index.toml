@@ -2458,7 +2458,7 @@ hash = "283d840754d96d0142455572bee972cd5957f658b1f2b305a8897aa0df8fd74a"
 
 [[files]]
 file = "config/fancymenu/assets/dp_version.txt"
-hash = "31186721be50d1033545dfeee9d6ee118b54fb1b974ea909ab2e960e0b7c049b"
+hash = "0f322e6b2def09a4fa1e6d23f94ba730fc9c640c05ca8dd955c5b2d883ef8a3f"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
@@ -4134,7 +4134,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "4df06c7769a127fecd2fa293e8e17152e48fd8738a880e5ac5bcfe23c7072acd"
+hash = "b1b980f1be5fde0f841ddd2bd236434f55981efe940c33bfb5ee2b291a8ba02a"
 metafile = true
 
 [[files]]
