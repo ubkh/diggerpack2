@@ -1,12 +1,12 @@
 name = "Diggerpack 2"
 author = "ubkh"
-version = "2.0.4"
+version = "2.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1e39bd4e6da3bf195f1aad0338baf9e3171de68fff6af50d2abc8989bea7f3c4"
+hash = "595c7fe81161e9bbda2d51d6664cfd138d1a02c896f3dc8cffa9d279e3868533"
 
 [versions]
 forge = "47.4.8"

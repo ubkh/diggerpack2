@@ -1998,7 +1998,7 @@ hash = "279bed05cfb80a01dae5f7c2463af944587870624374b74976ba6d3ab7a96896"
 
 [[files]]
 file = "config/bettervillage_1.properties"
-hash = "a18b0be9a7b39fd80e34868c876841ee6e108ab43ecb59cfa7199a2fc7e4dfe1"
+hash = "998dbc5b4af4403f298b441373c686b5dbf81c6d30f33aae022af8372d15d610"
 
 [[files]]
 file = "config/betterwitchhuts-forge-1_20.toml"
@@ -2426,7 +2426,7 @@ hash = "07ccfa8d4edc6928ec566ce42a16d234436ee678b5ddc258431abf265f4f46f7"
 
 [[files]]
 file = "config/epicfight-client.toml"
-hash = "77918e716c6afc16146fb3095304a06f443b8a8e5b1075082bab72566b4a2ffa"
+hash = "d5891cc2f244f7c4af25e2f3e24946a1b44fd974fa89075da0eaf9e368e14eab"
 
 [[files]]
 file = "config/epicfight-common.toml"
@@ -2450,7 +2450,7 @@ hash = "7cb19695aa659df3f7ad281486c4d9fe94b1fd4d6f0751c3e29e29947a191b70"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "80b7f8eeb19910f600167bdf54c0f35761d5df92b55d9a1e505e63cfd63d9f36"
+hash = "33346b21c4700c519133b4d7dd45bc09d5d16d889cef562f0740de43fce3f26d"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -2458,7 +2458,7 @@ hash = "283d840754d96d0142455572bee972cd5957f658b1f2b305a8897aa0df8fd74a"
 
 [[files]]
 file = "config/fancymenu/assets/dp_version.txt"
-hash = "a8d4609d3074178dfd6e468d23fe83f2ea46e02faecff056938b59256e7f5bb6"
+hash = "ce0a2005da2b159fde33efc005d063470ccc2ccc54ffb702dfafb2c330285040"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
@@ -2595,6 +2595,10 @@ hash = "069ca5c158ce41e1a136b3089c6bdb6d94f6db583ec895cc5fe47c74f37c693d"
 [[files]]
 file = "config/forgeendertech/Biomes/aether_redux$skyfields.cfg"
 hash = "d52963f26c7d82f628ad9b502da8f0ad06b5882fbde0549dd9746db1d98bd38e"
+
+[[files]]
+file = "config/forgeendertech/Biomes/ancient_aether$sun_forest.cfg"
+hash = "7d8613dafb49e1a466a53299c0407b8dde967a701fb9c393940f75d6251a3904"
 
 [[files]]
 file = "config/forgeendertech/Biomes/ancient_aether$wyndcap_highland.cfg"
@@ -2830,7 +2834,7 @@ hash = "89f297cf6f1f8b36ca54e414d3c434949799568a989417908fb5af9cea5fb43f"
 
 [[files]]
 file = "config/ironchests/defaults.properties"
-hash = "8dc7556e8288bad9eb3ac892a97f346fea66f3bb93d07a68567189e8de298d4e"
+hash = "4f52c25aa93e780c21c764a7b08fe4f928c5871ba10d448f4c39a99b543d6c0d"
 
 [[files]]
 file = "config/ironchests/upgrade_types/copper.json"
@@ -2946,7 +2950,7 @@ hash = "5a1791dfc285628c7dc6a6faf4bfe241c6be682bfa44cdba62208fdb0e64ea04"
 
 [[files]]
 file = "config/libraryferret_1.properties"
-hash = "cc1514670fc2ed730855f7eae39a211caa1961acf75e63933638beab6abd7601"
+hash = "916ac6e5295ab25ba2dc70f60340f7694e7ce41b1dc65f32f4e7d5adb2a9ee48"
 
 [[files]]
 file = "config/lost_aether_content-client.toml"
@@ -3018,7 +3022,7 @@ hash = "ed5963ab9132632e89ea83f63f992f793f102d114b77938514d89d255a5754f7"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "16c13aa000ec11e95069562308870526257f7eb6d94207231f5af02b3df9a9f5"
+hash = "9cdb687ad568280a49de67e3aa5f02b1cfe47e24e12b3c4bd2fa1b5fb75be37f"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
@@ -4468,7 +4472,7 @@ metafile = true
 
 [[files]]
 file = "mods/epic-fight.pw.toml"
-hash = "4df2c67d8e06dc623632f2984de5c2213fb048d8eedaa7af33f488c9cffcda3a"
+hash = "57317d3a4bb1585b16f4fd6b690c3ce8672dd0958adc01c2953e185b1af4bc8e"
 metafile = true
 
 [[files]]
