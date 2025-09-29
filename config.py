@@ -61,6 +61,7 @@ UNKNOWN_MODS_TOML_DATA = [
     {'filename': 'packwiz_updater.jar', 'name': 'Packwiz Updater', 'side': 'server'},
     {'filename': 'simple_backups.jar', 'name': 'Simple Backups', 'side': 'server'},
     {'filename': 'jedz.jar', 'name': 'JEDZ', 'side': 'both'},
+    {'filename': 'smoothswapping.jar', 'name': 'Smooth Swapping', 'side': 'client'},
 ]
 
 

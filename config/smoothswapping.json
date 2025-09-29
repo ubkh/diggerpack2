@@ -1,5 +1,14 @@
 {
   "toggle_mod": true,
   "animation_speed": 100,
-  "curve_points": []
+  "curve_points": [
+    [
+      0.4156901,
+      0.35154074
+    ],
+    [
+      0.4873047,
+      0.88447577
+    ]
+  ]
 }
