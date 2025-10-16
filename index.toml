@@ -1998,7 +1998,7 @@ hash = "279bed05cfb80a01dae5f7c2463af944587870624374b74976ba6d3ab7a96896"
 
 [[files]]
 file = "config/bettervillage_1.properties"
-hash = "265200b8e0a2a20b5dc8c5f4456df87585854750ece195176ded5243c014b180"
+hash = "6405433f6a025d5d4a3e46be640c4c32c0edcedfde74d808c659f3c49fe1f730"
 
 [[files]]
 file = "config/betterwitchhuts-forge-1_20.toml"
@@ -2426,7 +2426,7 @@ hash = "07ccfa8d4edc6928ec566ce42a16d234436ee678b5ddc258431abf265f4f46f7"
 
 [[files]]
 file = "config/epicfight-client.toml"
-hash = "23883dd3f6c929ed7ec918a815904567ecfd1b5e9ba82f3c9422ab64bf9cccd1"
+hash = "d5891cc2f244f7c4af25e2f3e24946a1b44fd974fa89075da0eaf9e368e14eab"
 
 [[files]]
 file = "config/epicfight-common.toml"
@@ -2450,7 +2450,7 @@ hash = "7cb19695aa659df3f7ad281486c4d9fe94b1fd4d6f0751c3e29e29947a191b70"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "11a7a8325d8e0b122ec32602cc826df0d3816808a33451c647ec45e0966b1ddb"
+hash = "b288ceda4c391b0d0a492c21151737a530b243a4e61156b9d9294383cfb6d11d"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -2458,7 +2458,7 @@ hash = "283d840754d96d0142455572bee972cd5957f658b1f2b305a8897aa0df8fd74a"
 
 [[files]]
 file = "config/fancymenu/assets/dp_version.txt"
-hash = "5586bab26415fe15a8d5ace77ab932358d3ff0af628b8acaf326415293838aa6"
+hash = "59b3269556acbab956cf6753f01942bc6a698d717550f37ea87ff878c1627be4"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
@@ -2570,7 +2570,7 @@ hash = "9a837aaa5e26b3f6d8c1d2e4a3c292dcbe93d0bfc33bfa35ba8594617b5d9b0d"
 
 [[files]]
 file = "config/flywheel-client.toml"
-hash = "d3a2867dcb1c83a8ad09bbf2a2aee230e8184c588d4eb9ea446d8d947ee77e70"
+hash = "f8b0adbc24fc40159fdcc1b1a109cf4afe8089318d3fe8b4a131d279f064bddd"
 
 [[files]]
 file = "config/fml.toml"
@@ -2934,7 +2934,7 @@ hash = "89f297cf6f1f8b36ca54e414d3c434949799568a989417908fb5af9cea5fb43f"
 
 [[files]]
 file = "config/ironchests/defaults.properties"
-hash = "203ac1866d4159e41c951209c8ff14feaaf34447cb8aecf62e0fb2ef473b0ceb"
+hash = "6c0eb4ee3292eaea585ad98d9809af56d982b5197bf19661815a02648f332475"
 
 [[files]]
 file = "config/ironchests/upgrade_types/copper.json"
@@ -3058,7 +3058,7 @@ hash = "5a1791dfc285628c7dc6a6faf4bfe241c6be682bfa44cdba62208fdb0e64ea04"
 
 [[files]]
 file = "config/libraryferret_1.properties"
-hash = "1aa2194e7f9f1bea0427464ccf2f9b20a1b120d6ad29c8af144f26475eb8bd2c"
+hash = "4c26650f185a0a7be3f2408591de8cfad51901cf3639779ae305dbcffa52ec3d"
 
 [[files]]
 file = "config/lost_aether_content-client.toml"
@@ -3130,7 +3130,7 @@ hash = "ed5963ab9132632e89ea83f63f992f793f102d114b77938514d89d255a5754f7"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "1fc40063edc82345864e1ff9f0f2bf3cee9c419c740b3405de91e8a2678014d9"
+hash = "d232b921fc45c5bf3ecded406fb1e29c91e99a75f6bc59a3565465d9272aae9b"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
