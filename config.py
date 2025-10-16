@@ -62,6 +62,7 @@ UNKNOWN_MODS_TOML_DATA = [
     {'filename': 'simple_backups.jar', 'name': 'Simple Backups', 'side': 'server'},
     {'filename': 'jedz.jar', 'name': 'JEDZ', 'side': 'both'},
     {'filename': 'smoothswapping.jar', 'name': 'Smooth Swapping', 'side': 'client'},
+    {'filename': 'securitycraft_dp1.jar', 'name': 'SecurityCraft', 'side': 'both'},
 ]
 
 
