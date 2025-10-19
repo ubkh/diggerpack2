@@ -1,0 +1,9 @@
+name = "SecurityCraft"
+filename = "securitycraft.jar"
+side = "both"
+
+[download]
+url = "https://ubkh.github.io/diggerpack2/unknown-mods/securitycraft.jar"
+hash = "e7bf46cd3857d3f74aaf07edb92f18140d87729c1f0f4e843336a3a269ae1151"
+hash-format = "sha256"
+mode = "url"

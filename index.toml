@@ -2458,7 +2458,7 @@ hash = "283d840754d96d0142455572bee972cd5957f658b1f2b305a8897aa0df8fd74a"
 
 [[files]]
 file = "config/fancymenu/assets/dp_version.txt"
-hash = "59b3269556acbab956cf6753f01942bc6a698d717550f37ea87ff878c1627be4"
+hash = "14784ac675270530b481f20d744f29951106540ba975c96a0942e9773e452f75"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
@@ -3917,7 +3917,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "2a5df7af792e3e87368489f61c77db02106827c418a19dcdfc9c990b03424977"
+hash = "af3a1c6a219b38f7b7b3188ab7be14938386bdcaf0d50b60012f7a264215aa71"
 metafile = true
 
 [[files]]
@@ -5381,8 +5381,8 @@ hash = "638a0bfd2a7a2b1cdcd24e2491d5238e5faebe69e23e729dcc17b335fb58b287"
 metafile = true
 
 [[files]]
-file = "mods/securitycraft_dp1.pw.toml"
-hash = "416e1ceab98a230260acb46e9a19ac8cf52684e962d690397c8ab60472be53f1"
+file = "mods/securitycraft.pw.toml"
+hash = "a34f5578d7801e0648e8fbafc16590b9db430764b642f6bdfb55b0c279ee4792"
 metafile = true
 
 [[files]]
