@@ -25,6 +25,14 @@ file = "config/DistantHorizons.toml"
 hash = "562071027faf500516d3ef180e3e39143bdefa0306bc12c6a54953cb778f7521"
 
 [[files]]
+file = "config/H&D-config-common.toml"
+hash = "133b03f0c1b28993eb31994ed13899f7d46887f2133a5463e1c882fa8ad23214"
+
+[[files]]
+file = "config/H&D-food.toml"
+hash = "52a87984225fb24d8666dea3cf3ec86c2b44f1a0a5d6b73f6eceaa9531fb680f"
+
+[[files]]
 file = "config/Hexerei-client.toml"
 hash = "7d12c0046fcaea165680eb9842fc06de03e832d93c2aa218286616bb29738501"
 
@@ -115,6 +123,10 @@ hash = "caa611136fde92cc4eb9f63fde2bab6678c9309e737fedd9adcf139b4b8d05db"
 [[files]]
 file = "config/Obscuria/obscure-tooltips-client.toml"
 hash = "db366a3f363df333929955aae44e290108668e1fc7c106232124bf660fa3c0b2"
+
+[[files]]
+file = "config/SirenHead.toml"
+hash = "e786c250ef4001389659944ce5daf5744c6f7ec93b691e5a29d4bbba6f3d29bc"
 
 [[files]]
 file = "config/VModData/ServerLimits.json"
@@ -1430,7 +1442,7 @@ hash = "8f6c48cdca6491560915319f0bcde30665b6f9a6dc09095803cbd802bbb653ad"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "e227a47127f1889db10e7434fb852a3c13ddb16d08db5f965041ef21bd549011"
+hash = "f88ff57a748f1cea4e1d9faba401784942e7c558e3942a54e6245d366f972064"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
@@ -1446,7 +1458,7 @@ hash = "557cc1b6ba1369f5d2459054cc2b9e9f91c58b9cdecb0a3023a911b435b1a9c8"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "5b4accec8b6f5295693e71f12b2871ff6afcec353b721d5765a75d9833410100"
+hash = "80bc2cf60cd5ce23f0674ea7d5104bcac167e036df1b28d558f0a66c56243845"
 
 [[files]]
 file = "config/apotheosis/garden.cfg"
@@ -1454,7 +1466,7 @@ hash = "dea4d260e6eac868297c0f9cd80545fd6b54f7344c678b89edda980a3fc5e8cf"
 
 [[files]]
 file = "config/apotheosis/names.cfg"
-hash = "707fa562025fc364bcca5473d3f729ba0fe6ffd30e2dd76ce6c9c680cef5364c"
+hash = "8e49bd6f3feab5b67366425661a3b529af99ac731152cc305e9c31c60f68c703"
 
 [[files]]
 file = "config/apotheosis/potion.cfg"
@@ -1822,7 +1834,7 @@ hash = "40de589b7656638a5b4dad91869b2d1a275a9cdd625dfd7fb8979fab3cfaa941"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "dafed0bad3d20d5810c2a861e68238b06cfdf239d0cea673152fa19929f62ab0"
+hash = "70d449baa8075e22d4d0c9e07adca4558be7335870ae7ca76b0c21e336bb94bf"
 
 [[files]]
 file = "config/attributeslib.cfg"
@@ -1998,7 +2010,7 @@ hash = "279bed05cfb80a01dae5f7c2463af944587870624374b74976ba6d3ab7a96896"
 
 [[files]]
 file = "config/bettervillage_1.properties"
-hash = "6405433f6a025d5d4a3e46be640c4c32c0edcedfde74d808c659f3c49fe1f730"
+hash = "e4814c991ce3fc8446a3ea39dca9a77c993b9dd10b812cf773fc1ff10366a9b6"
 
 [[files]]
 file = "config/betterwitchhuts-forge-1_20.toml"
@@ -2273,6 +2285,10 @@ file = "config/delightful-common.toml"
 hash = "cc3b59b42e243476d8c83e656ec88695ed062b24e92696153a41439148da1d63"
 
 [[files]]
+file = "config/dementia.toml"
+hash = "bc0f50fe7ac500b10a8121622338001d49bcb11b260518a565dc0e9e4ee05260"
+
+[[files]]
 file = "config/digitalitems.toml"
 hash = "2cb9aa066cba180c240007343d9e3dbbb5e5347f6a49dff335be63d5348f9385"
 
@@ -2386,7 +2402,7 @@ hash = "6ae4b34b6aafc9101cb2f72d607f316a22cd1a4d53061e3186f37edc709b54e2"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "8f09c1c44950ba730f722d3df71bb385ae5fb9e79a0285d6585523ea59295c2e"
+hash = "12b55fc7e21fd313450471cfd5e0b3239e5d2b4f88258ad288bf4d6d4b034457"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -2394,7 +2410,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "b78e1a745d5080dc2e50dd192982aeb59f32b1645626b77ac38a2b725ea52122"
+hash = "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d"
 
 [[files]]
 file = "config/emi.css"
@@ -2450,23 +2466,87 @@ hash = "7cb19695aa659df3f7ad281486c4d9fe94b1fd4d6f0751c3e29e29947a191b70"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "b288ceda4c391b0d0a492c21151737a530b243a4e61156b9d9294383cfb6d11d"
+hash = "4bdc338d0dfd1d98d02fe3554cf587ed82c450535ae76500ee38d586d077a49e"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "283d840754d96d0142455572bee972cd5957f658b1f2b305a8897aa0df8fd74a"
 
 [[files]]
+file = "config/fancymenu/assets/coop_1.png"
+hash = "5a2cbc6f9e90816a37b13564f7bf3577f1ac72a4fd8149c4ba38524ab730d32c"
+
+[[files]]
+file = "config/fancymenu/assets/coop_2.png"
+hash = "dad78ad40bf5f6dfbaf0f0d65365d8fce2be51623eb0079ebedb65342816adc9"
+
+[[files]]
 file = "config/fancymenu/assets/dp_version.txt"
-hash = "14784ac675270530b481f20d744f29951106540ba975c96a0942e9773e452f75"
+hash = "ad78cfa0ead35ff9d0d6de11ae996a470b257a7342d2a53073df0ce8cda04c4d"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
+hash = "57deb91679a17efed74b1c1e05a07f6b155c71d9e00f71beea943448ac6ab6d6"
+
+[[files]]
+file = "config/fancymenu/assets/logo_T.png"
 hash = "06093aaa7f8dba75b409ebaad390a3626c1e1d2ac7887590e7edd82ae195ced6"
+
+[[files]]
+file = "config/fancymenu/assets/message.png"
+hash = "32d3db4ae3b2e5d8b29147f55cbb78449ba5ad57b502515be65c0d874ba06777"
+
+[[files]]
+file = "config/fancymenu/assets/mods_1.png"
+hash = "550dc3efb40a6d479b1eb96d9112cb98fe9f27606f0cf1a0fd86db46dbe3669b"
+
+[[files]]
+file = "config/fancymenu/assets/mods_2.png"
+hash = "45f8c78c972b71b5368e1c51d07ac64652f93aed9faa9493b947c2bc5965bbf8"
+
+[[files]]
+file = "config/fancymenu/assets/okay_1.png"
+hash = "9a7a983a24ecf142f0f2bba7f819614156351e1478bb54b21a76531053d798d7"
+
+[[files]]
+file = "config/fancymenu/assets/okay_2.png"
+hash = "eb6d3ac4a2a3f0325620671cc933a2649070cfbea97f7036535afff198a651d6"
+
+[[files]]
+file = "config/fancymenu/assets/prefs_1.png"
+hash = "15203e9fe875eb0180d8594237a468c4eccd59f52d1441076f3e8ec5be9ec483"
+
+[[files]]
+file = "config/fancymenu/assets/prefs_2.png"
+hash = "37a5969f65d589839b561780a375926686ea9694063ce1d7f0d720175dd49e15"
+
+[[files]]
+file = "config/fancymenu/assets/quit_1.png"
+hash = "0a1ad030dabfb0780e44745493ee3a70efc74b4057a3bbb1e503b4016a69f34b"
+
+[[files]]
+file = "config/fancymenu/assets/quit_2.png"
+hash = "f0b7a29bb4292faf2711ec417076f871603461d4b04e0135f174141dc32a745f"
+
+[[files]]
+file = "config/fancymenu/assets/sirenhead.png"
+hash = "f3c452878137e8b4232760be03f6cb019eabbc2852cd7ecba6a3fd84503d6c7a"
+
+[[files]]
+file = "config/fancymenu/assets/solo_1.png"
+hash = "2a21439807a6717a82428617a87b1cc9ec6945cd31ee5461570028078a53ada7"
+
+[[files]]
+file = "config/fancymenu/assets/solo_2.png"
+hash = "11e2f84d4bc19e2f4f428e0a0efa7fdf596a30ecd073a8325f7a35b851455982"
 
 [[files]]
 file = "config/fancymenu/assets/sound_disc_one.ogg"
 hash = "983237e8db9417917e4f73925b6fa82851f7a51fd2c7d2a7f02b47f81a78491f"
+
+[[files]]
+file = "config/fancymenu/assets/sound_halloween.ogg"
+hash = "cea514bc7ab9b81964a1c5b6f9cbe2a006af7cb071ebd4d6b2bbc011cb040f5c"
 
 [[files]]
 file = "config/fancymenu/assets/widgetscopy.png"
@@ -2486,7 +2566,7 @@ hash = "7119f63fa23fb145db8b04e9ace4f57bed115fb2b04eb031b15fbbe98b2d74ba"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+hash = "45e06b2d74509ea7506bf7abc7edf4cc3355c6546804a671dda2e19e65be4f9c"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -2494,7 +2574,11 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "9ba91cbb07773f76b1925249e88835ba4c2fcd06349d478ad4f26cebc208fdf3"
+hash = "fd899601c1b83cbfb09718d8fad421ff57a0eadf552b1e7004a95e5156d39e9a"
+
+[[files]]
+file = "config/fancymenu/customization/welcome_layout.txt"
+hash = "3a0bd665601686ec8b49d6e09edda5c4d693285ca68fd7c45154fe1e7519f0b3"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -2518,7 +2602,7 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+hash = "c3427f97fd7430b4bde5d775e835d39130687ce0d74ea5982a52610358620526"
 
 [[files]]
 file = "config/farmandcharm.toml"
@@ -2837,6 +2921,34 @@ file = "config/graveyard/the-graveyard-3.0-config.json5"
 hash = "d565c99daef747c7fe6ee3281146f7a8ebe9a5b591cc2908bf72006907b7ca77"
 
 [[files]]
+file = "config/had/dietary_fiber.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/had/fats_and_oil.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/had/inorganic_salt.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/had/moisture_content.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/had/protein.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/had/saccharides.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/had/vitamin.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/herdmentality-common.toml"
 hash = "05a9694d0a7d6dd62485c14862a8c8a8d30e2092dfbe4c129f2fcd3cecd92116"
 
@@ -2934,7 +3046,7 @@ hash = "89f297cf6f1f8b36ca54e414d3c434949799568a989417908fb5af9cea5fb43f"
 
 [[files]]
 file = "config/ironchests/defaults.properties"
-hash = "6c0eb4ee3292eaea585ad98d9809af56d982b5197bf19661815a02648f332475"
+hash = "620de000f468b8e76e825e48dbc0bf332be2ec506d846947a958dfb33b75307a"
 
 [[files]]
 file = "config/ironchests/upgrade_types/copper.json"
@@ -3033,6 +3145,10 @@ file = "config/kiwi-common.yaml"
 hash = "1488107dd37c8f05131e65c5ad9adda7b674b08a8c0d639752d53b7926db2282"
 
 [[files]]
+file = "config/knocker.toml"
+hash = "a702084df9426f531ba643c5bd67f7f7ef36ba15a41d4e0f530e4e9a035b2445"
+
+[[files]]
 file = "config/konkrete/locals/de_de.local"
 hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
 
@@ -3058,7 +3174,7 @@ hash = "5a1791dfc285628c7dc6a6faf4bfe241c6be682bfa44cdba62208fdb0e64ea04"
 
 [[files]]
 file = "config/libraryferret_1.properties"
-hash = "4c26650f185a0a7be3f2408591de8cfad51901cf3639779ae305dbcffa52ec3d"
+hash = "d0aa1dc498098e38fd398072ef9aec1c685828861db3848c45f09e952222edec"
 
 [[files]]
 file = "config/lost_aether_content-client.toml"
@@ -3130,7 +3246,7 @@ hash = "ed5963ab9132632e89ea83f63f992f793f102d114b77938514d89d255a5754f7"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "d232b921fc45c5bf3ecded406fb1e29c91e99a75f6bc59a3565465d9272aae9b"
+hash = "d808735b4ba5cd6977f24ac77f79cdf412d762fe078d812e08af8eff3a3f9434"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
@@ -3218,7 +3334,7 @@ hash = "58f7821842631af9ec8bcaddb60526b81cd1b9ad63cbba87c83c70e53c3a9b16"
 
 [[files]]
 file = "config/raised.json"
-hash = "fb5983ef311f9a871261782a14bf5f3ff3032f170ad4c025dcb3b83421ca1aed"
+hash = "e5a2abc95b9d51c0b8e5ee2aebea61e17c2dc8411d670a7536f4573635327adc"
 
 [[files]]
 file = "config/reblured-client.toml"
@@ -3273,12 +3389,28 @@ file = "config/ribbits-options.json"
 hash = "671ee75b5333f98d3a9b92fcfcc79c7df7a6b4c0e5cda025a7b449ab79562b2b"
 
 [[files]]
+file = "config/rootoffear/client.toml"
+hash = "3ae4ba2f6dfae54304299481ecf706b911bc854421e08efd8f45f7461414f7e7"
+
+[[files]]
+file = "config/rootoffear/common.toml"
+hash = "648e13a263f4906932d600589db213e95500657d7eb653590f224b0c09f122e5"
+
+[[files]]
 file = "config/rsrequestify-common.toml"
 hash = "a460e7aa50ab78ff36f6742b870ebc4e184911fc646b415c4fa49ded57ba8ea8"
 
 [[files]]
 file = "config/s_a_b_r_tfmg-common.toml"
 hash = "c5ff2cc6e0454b4b160f101c82e0c366ad84aaf4423c3499c65a0354948abda6"
+
+[[files]]
+file = "config/sanitydim/default.toml"
+hash = "264cba7d977fe6546eccfec89018da4263c81bb49b5ba0f0b46f2e1174478096"
+
+[[files]]
+file = "config/sanitydim/dimension/example.toml"
+hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
 
 [[files]]
 file = "config/saturn-optimizations.toml"
@@ -3311,6 +3443,18 @@ hash = "299965ce464b4c0bb4a79dfd2dba2cdfd63f3360628b0d5b0d3b3988003f4f0d"
 [[files]]
 file = "config/showcaseitem-common.toml"
 hash = "8e8d6d09058f0fdb1d2bb1dac724a8399b6861130ff31abb16dad74de3299733"
+
+[[files]]
+file = "config/simplehats-client.toml"
+hash = "e31bd569552eb9da2acdfc68e4c2668655391ffc5f9b4970566a3a7fb4a376cf"
+
+[[files]]
+file = "config/simplehats-common.toml"
+hash = "7c9c9013376577623035d3830dfd8be825789ade1511ae662346649085fb9666"
+
+[[files]]
+file = "config/simplehats.json"
+hash = "ef023c7f0d6c273b463f595c62145afab8f3b65b43b0b3304e3da5e9355cb5dc"
 
 [[files]]
 file = "config/simpleplanes-client.toml"
@@ -3366,7 +3510,7 @@ hash = "2a59c7eec10a06bd35c9cfbc1d615a7319bd46d1ed3d9f2de1696f07770066eb"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "dffa837730bc574896792a0f83161abdcbdf140f9879a485c2fd6203a57bfcf1"
+hash = "129cdb13fa5f8a680c9c78fcc9a81d65937bd4eb5f401406484bcc63da9caa2f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -3382,7 +3526,7 @@ hash = "368cfc853e44c77ebd1f6f43484ae1264f393f0e927391cb04ae9c0916b6e90c"
 
 [[files]]
 file = "config/sounds/chat.json"
-hash = "82080f35b0d58d4836741abb924160552a682343a126551262e55110047c8de0"
+hash = "5aacff8a7b267bf7724b18aeb6f9fb7f9563fa76ddad42cb6e25edb7854a88f1"
 
 [[files]]
 file = "config/sounds/event.json"
@@ -3611,6 +3755,18 @@ hash = "9083e6eca881d206e553e4df9df423e9455e4474c47d2cedc4db205c84571827"
 [[files]]
 file = "config/toms_peripherals-common.toml"
 hash = "3969f4b811d298575c8cc46782b48cc5afe25e27dfd389b82d5fdcc71a755408"
+
+[[files]]
+file = "config/toughasnails/client.toml"
+hash = "673d264a0f12b683bed9c16df4f913ff2892f18732cf0d2895adc6d6917e98fa"
+
+[[files]]
+file = "config/toughasnails/temperature.toml"
+hash = "41fbcaebd05ceb6a049af986dbd2af1f4a76a1370162458987e85dc44dbc1ab8"
+
+[[files]]
+file = "config/toughasnails/thirst.toml"
+hash = "f7ac1fd5a3ac0472d6e2df1ebd232980703cbed039523831b01ee3fadec1bb69"
 
 [[files]]
 file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
@@ -4511,6 +4667,11 @@ hash = "4646f434a413a6eff54c748b893e6b00e94836428c422fa74e259083ce6c1904"
 metafile = true
 
 [[files]]
+file = "mods/dementia.pw.toml"
+hash = "1ce81729749c7792ddf04683d1adff0609a1378894b991a1344084c6674dac7b"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "07a61baf17af0648580f36ba1c0e9621bc4f9542b2a2fb58512428c9da0fcafb"
 metafile = true
@@ -4781,6 +4942,11 @@ hash = "5bec44ef112725d6beede99562a3c62e7e0890c60b5d764826176e32f71bb732"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "9d498623f4affc9418ff70119eb28cec1862e5bc591643bd24d819b99dd033d1"
+metafile = true
+
+[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "b21b1ff4373fe94cef89be6a3ad4fccf70fdd368777a21f65bd4c9888d7469ed"
 metafile = true
@@ -4798,6 +4964,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "5f66c10c529e87389cffff32ca6e2856cf64f669133cb56942ebccd805855625"
+metafile = true
+
+[[files]]
+file = "mods/health-disease.pw.toml"
+hash = "6b944c3edce3a0920c0273a4ee00bc44c4c7ad7c3ef513afc3bf1a1f78b4681e"
 metafile = true
 
 [[files]]
@@ -5191,6 +5362,11 @@ hash = "555f1675b5ea5148675271b9d3da95084ff4c1cb66060cb60c1b72cea928f393"
 metafile = true
 
 [[files]]
+file = "mods/paranoia.pw.toml"
+hash = "c269ac5e8bc872d8ac6d64de1f0a03e33eae5a4aa39a78c019257d5f7033e308"
+metafile = true
+
+[[files]]
 file = "mods/parcool.pw.toml"
 hash = "62e44210a35a91ff34ae4ce8f8b7397c2ea4da4358165b8628a6304b3e0044e8"
 metafile = true
@@ -5361,8 +5537,18 @@ hash = "616b76a6c71847a2f09d611a80901a7f58a7b1e72be42762d61b878df08622f4"
 metafile = true
 
 [[files]]
+file = "mods/sanity-descent-into-madness.pw.toml"
+hash = "7303bbd94607a5f51027910680d9aa23c9b2123397d3dda42e73848b0cc7c80c"
+metafile = true
+
+[[files]]
 file = "mods/saturn.pw.toml"
 hash = "7580a38d493256a6f7a301cd752486b1603ff9a7ac521d32c2d9397b521d191a"
+metafile = true
+
+[[files]]
+file = "mods/schizophrenia.pw.toml"
+hash = "c7f8b570d295af4ae11150fcbfb4c4048ea719e5b099fcffae950df9cc6dce3d"
 metafile = true
 
 [[files]]
@@ -5406,6 +5592,11 @@ hash = "bd52d878f3e19f0a9e5bc8e82c48c8b73e1f6aeccae51fb83a14afad45ffbe40"
 metafile = true
 
 [[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "50fa4dae35e6cef6bd3bfebe3c388a7f684a9751e09ab64f4f7012500d60e5f6"
+metafile = true
+
+[[files]]
 file = "mods/simple-planes.pw.toml"
 hash = "4ef70e5d551cb5a62dfbaa56a9ca13df0036792e8b18ce4bfce35458ace1dd86"
 metafile = true
@@ -5423,6 +5614,11 @@ metafile = true
 [[files]]
 file = "mods/simply-light.pw.toml"
 hash = "f3203e7826386e1bf17e6207b1b6650b7c703bf4fbf73f919b03f923053913d0"
+metafile = true
+
+[[files]]
+file = "mods/siren-head-the-arrival.pw.toml"
+hash = "bfb81833243e30f822d4016a767edeef734f49b94c9549ce7ca87deb681cc2a0"
 metafile = true
 
 [[files]]
@@ -5606,6 +5802,16 @@ hash = "ec93197118cea26a24262778e957eb7a4027b640bd4ad9877806a52e70eb4e5c"
 metafile = true
 
 [[files]]
+file = "mods/the-knocker.pw.toml"
+hash = "df529b314732579f4f121dc39fcaaa34c2c75cff4b9c42bb3c4033db42aa2fbf"
+metafile = true
+
+[[files]]
+file = "mods/the-root-of-fear.pw.toml"
+hash = "27af5e48df66fb85440f0cd01d1a051594c44321dde22d99150b55a71ad83251"
+metafile = true
+
+[[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "8a0adc4550e4189ff2736abfb8aeb293b404eea8273befa09215ad38a1950b32"
 metafile = true
@@ -5653,6 +5859,11 @@ metafile = true
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "2b11f11892bca793d21ae49c78f07c77894963e8853ba6ede0493a1c774468f0"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "18cc5be8f27e3098046017619844a7b705881eb9c0de2685dec61c46a54be263"
 metafile = true
 
 [[files]]

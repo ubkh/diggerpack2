@@ -2,6 +2,9 @@
 # The background is slightly less stylish, but more tiles are shown at once
 # default: true
 fullscreen = true
+# Whether to require an item to display the map
+# default: false
+requireItem = false
 # Whether to keep scale after closing the map
 # default: false
 keepZoom = false
@@ -38,6 +41,10 @@ chunkTickLimit = 100
 # options: TEST, MISSING, CRASH
 # default: MISSING
 fallbackFailHandling = "MISSING"
+# Disables fading when Marker Icons approach the edge of the Atlas.
+# Needed for shader support, pair with Shader Patch resource pack.
+# default: false
+shaderCompat = false
 # Whether to show debug information about hovered tiles and markers
 # default: false
 debugRender = false

@@ -4,7 +4,7 @@ import os
 
 # The root directory for copying files from, typically the `minecraft` folder of your instance.
 # The `os.path.expanduser` function handles the '~' character correctly.
-ROOT_COPY_PATH = os.path.expanduser("~/Library/Application Support/PrismLauncher/instances/dp2/minecraft")
+ROOT_COPY_PATH = os.path.expanduser("~/Library/Application Support/PrismLauncher/instances/dp2-Halloween/minecraft")
 
 # A list of additional directories and files to copy from the ROOT_COPY_PATH.
 # These will be copied to the current working directory.

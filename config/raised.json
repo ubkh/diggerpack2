@@ -781,6 +781,39 @@
       },
       "sync": "refurbished_furniture:power_indicator"
     },
+    "sanitydim:sanitydim.blood_tendrils_overlay": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "sanitydim:sanitydim.blood_tendrils_overlay"
+    },
+    "sanitydim:sanitydim.hint": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "sanitydim:sanitydim.hint"
+    },
+    "sanitydim:sanitydim.sanity_indicator": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "sanitydim:sanitydim.sanity_indicator"
+    },
     "securitycraft:camera_overlay": {
       "displacement": {
         "x": 0,
