@@ -1,0 +1,48 @@
+
+[Spawning]
+	#Determines if Anomaly Shadow can spawn naturally
+	anomaly_shadow = true
+	#Determines if Anomaly Hunt Shadow can spawn naturally
+	anomaly_hunt_shadow = true
+	#Determines if Anomaly Haunt can spawn naturally
+	anomaly_haunt = true
+	#Determines if Anomaly Find can spawn naturally
+	anomaly_find = true
+	#Determines if Anomaly Peek can spawn naturally
+	anomaly_peek = true
+	#Determines if Anomaly Look can spawn naturally
+	anomaly_look = true
+	#Determines if Anomaly Hunt can spawn naturally
+	anomaly_hunt = true
+	#Determines if Anomaly Chase can spawn naturally
+	anomaly_chase = true
+	#Determines if Anomaly Fool can spawn naturally
+	anomaly_fool = true
+	#Determines if Anomaly Statue can spawn naturally
+	anomaly_statue = true
+	#Determines if Anomaly Darkness can spawn naturally
+	anomaly_darkness = true
+	#Determines if Anomaly Cow can spawn naturally
+	anomaly_cow = true
+	#Minimum value for the random cooldown between every anomaly spawn. Measured in ticks
+	min_spawn_cooldown = 300.0
+	#Maximum value for the random cooldown between every anomaly spawn (This value determines until when the anomaly CANNOT spawn after an encounter). Measured in ticks
+	max_spawn_cooldown = 1200.0
+
+[Events]
+	#Determines if sleep events are activated, if false, there will be no sleep events between phases
+	sleep_events = true
+	#If disabled, no events will occur during night (e.g. red eye moon event)
+	night_events = true
+	#Chance for a night event to occur (reminder that it runs every tick during day) WARNING! This doesn't affect sleep events
+	night_event_chance = 0.05
+	#The number of days it takes for the anomaly to reach phase 1
+	start_time = 7.0
+	max_phase = 100.0
+
+[Other]
+	#Allows the use of every /anomalydata command
+	debug_mode = false
+	#A multiplier that increments the probability of going into the next phase each time you encounter an anomaly
+	probability_multiplier = 1.0
+

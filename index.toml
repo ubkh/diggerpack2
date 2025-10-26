@@ -25,12 +25,8 @@ file = "config/DistantHorizons.toml"
 hash = "562071027faf500516d3ef180e3e39143bdefa0306bc12c6a54953cb778f7521"
 
 [[files]]
-file = "config/H&D-config-common.toml"
-hash = "133b03f0c1b28993eb31994ed13899f7d46887f2133a5463e1c882fa8ad23214"
-
-[[files]]
-file = "config/H&D-food.toml"
-hash = "52a87984225fb24d8666dea3cf3ec86c2b44f1a0a5d6b73f6eceaa9531fb680f"
+file = "config/EVENT CHANCE PER TICK.toml"
+hash = "f882d193508da73859fcd8509f674e6ed082fdd0c29c5c9ad70d029a799d984a"
 
 [[files]]
 file = "config/Hexerei-client.toml"
@@ -1441,6 +1437,14 @@ file = "config/ancient_aether-common.toml"
 hash = "8f6c48cdca6491560915319f0bcde30665b6f9a6dc09095803cbd802bbb653ad"
 
 [[files]]
+file = "config/anomaly_client.toml"
+hash = "6e392bf82b582bd6056457c185fb4707b8b6b7f28499e90a6114034afad195ef"
+
+[[files]]
+file = "config/anomaly_server.toml"
+hash = "12361dbe67de22811e7d6db5efd9f06bbd016d234003bd20f1e9e40760d9ab0a"
+
+[[files]]
 file = "config/antique-atlas.toml"
 hash = "f88ff57a748f1cea4e1d9faba401784942e7c558e3942a54e6245d366f972064"
 
@@ -1834,7 +1838,7 @@ hash = "40de589b7656638a5b4dad91869b2d1a275a9cdd625dfd7fb8979fab3cfaa941"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "70d449baa8075e22d4d0c9e07adca4558be7335870ae7ca76b0c21e336bb94bf"
+hash = "58e2bca21825e980a96aaec1942555cc9327851127f5c1cb0024903f6fd6472e"
 
 [[files]]
 file = "config/attributeslib.cfg"
@@ -2010,7 +2014,7 @@ hash = "279bed05cfb80a01dae5f7c2463af944587870624374b74976ba6d3ab7a96896"
 
 [[files]]
 file = "config/bettervillage_1.properties"
-hash = "e4814c991ce3fc8446a3ea39dca9a77c993b9dd10b812cf773fc1ff10366a9b6"
+hash = "7b5b962f7d6d9a22f1d41f30d5404212495a794eb72686da46306193441a0135"
 
 [[files]]
 file = "config/betterwitchhuts-forge-1_20.toml"
@@ -2285,10 +2289,6 @@ file = "config/delightful-common.toml"
 hash = "cc3b59b42e243476d8c83e656ec88695ed062b24e92696153a41439148da1d63"
 
 [[files]]
-file = "config/dementia.toml"
-hash = "bc0f50fe7ac500b10a8121622338001d49bcb11b260518a565dc0e9e4ee05260"
-
-[[files]]
 file = "config/digitalitems.toml"
 hash = "2cb9aa066cba180c240007343d9e3dbbb5e5347f6a49dff335be63d5348f9385"
 
@@ -2466,7 +2466,7 @@ hash = "7cb19695aa659df3f7ad281486c4d9fe94b1fd4d6f0751c3e29e29947a191b70"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "4bdc338d0dfd1d98d02fe3554cf587ed82c450535ae76500ee38d586d077a49e"
+hash = "e4a34d0a9e80a642e06a9d12fdb38b0a557ea6218810459252007586580d3d89"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -2482,7 +2482,7 @@ hash = "dad78ad40bf5f6dfbaf0f0d65365d8fce2be51623eb0079ebedb65342816adc9"
 
 [[files]]
 file = "config/fancymenu/assets/dp_version.txt"
-hash = "ad78cfa0ead35ff9d0d6de11ae996a470b257a7342d2a53073df0ce8cda04c4d"
+hash = "35a46a442defa82ca36265889ecde77d189d9040e80c746aff175e34f91a735c"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
@@ -2574,7 +2574,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "fd899601c1b83cbfb09718d8fad421ff57a0eadf552b1e7004a95e5156d39e9a"
+hash = "899ca4c2814931771ddfb5c5486c09903f73a2193508c1f9fef9b48bfe349c43"
 
 [[files]]
 file = "config/fancymenu/customization/welcome_layout.txt"
@@ -2921,34 +2921,6 @@ file = "config/graveyard/the-graveyard-3.0-config.json5"
 hash = "d565c99daef747c7fe6ee3281146f7a8ebe9a5b591cc2908bf72006907b7ca77"
 
 [[files]]
-file = "config/had/dietary_fiber.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/had/fats_and_oil.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/had/inorganic_salt.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/had/moisture_content.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/had/protein.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/had/saccharides.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/had/vitamin.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/herdmentality-common.toml"
 hash = "05a9694d0a7d6dd62485c14862a8c8a8d30e2092dfbe4c129f2fcd3cecd92116"
 
@@ -3046,7 +3018,7 @@ hash = "89f297cf6f1f8b36ca54e414d3c434949799568a989417908fb5af9cea5fb43f"
 
 [[files]]
 file = "config/ironchests/defaults.properties"
-hash = "620de000f468b8e76e825e48dbc0bf332be2ec506d846947a958dfb33b75307a"
+hash = "ef5a03ab40c6d4a2f3c3e8a7e9d99a2acb3eb070f0d1a85aec1417fd03d12cf9"
 
 [[files]]
 file = "config/ironchests/upgrade_types/copper.json"
@@ -3174,7 +3146,7 @@ hash = "5a1791dfc285628c7dc6a6faf4bfe241c6be682bfa44cdba62208fdb0e64ea04"
 
 [[files]]
 file = "config/libraryferret_1.properties"
-hash = "d0aa1dc498098e38fd398072ef9aec1c685828861db3848c45f09e952222edec"
+hash = "1849a2ca6ca5e85dea7b0f6f4df290e83edb8a09e3fddb4ea406a77db81e50ff"
 
 [[files]]
 file = "config/lost_aether_content-client.toml"
@@ -3246,7 +3218,7 @@ hash = "ed5963ab9132632e89ea83f63f992f793f102d114b77938514d89d255a5754f7"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "d808735b4ba5cd6977f24ac77f79cdf412d762fe078d812e08af8eff3a3f9434"
+hash = "8ae75f84026b63de518b56d211beeb7c3c53c9af54262602db36b205e3c2d224"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
@@ -3510,7 +3482,7 @@ hash = "2a59c7eec10a06bd35c9cfbc1d615a7319bd46d1ed3d9f2de1696f07770066eb"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "129cdb13fa5f8a680c9c78fcc9a81d65937bd4eb5f401406484bcc63da9caa2f"
+hash = "f289800e5fa6d735c26563a119f94684fa15c0138f9fdc5d08cb1427eb28b3f8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -4667,11 +4639,6 @@ hash = "4646f434a413a6eff54c748b893e6b00e94836428c422fa74e259083ce6c1904"
 metafile = true
 
 [[files]]
-file = "mods/dementia.pw.toml"
-hash = "1ce81729749c7792ddf04683d1adff0609a1378894b991a1344084c6674dac7b"
-metafile = true
-
-[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "07a61baf17af0648580f36ba1c0e9621bc4f9542b2a2fb58512428c9da0fcafb"
 metafile = true
@@ -4964,11 +4931,6 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "5f66c10c529e87389cffff32ca6e2856cf64f669133cb56942ebccd805855625"
-metafile = true
-
-[[files]]
-file = "mods/health-disease.pw.toml"
-hash = "6b944c3edce3a0920c0273a4ee00bc44c4c7ad7c3ef513afc3bf1a1f78b4681e"
 metafile = true
 
 [[files]]
@@ -5789,6 +5751,16 @@ metafile = true
 [[files]]
 file = "mods/the-aether-redux.pw.toml"
 hash = "ba484215290e3bb1164f0563fab483f59a091b22fbddc2f90f302f168a89a925"
+metafile = true
+
+[[files]]
+file = "mods/the-anomaly-rephased.pw.toml"
+hash = "519d9175d15b1770e2d65d1ad334a4991f1caba1b77369cd571a05f86d816bf5"
+metafile = true
+
+[[files]]
+file = "mods/the-broken-script.pw.toml"
+hash = "2f6c38f4cbd497b54991e186368490f544810c4818d42c648459ccf41af5e84f"
 metafile = true
 
 [[files]]

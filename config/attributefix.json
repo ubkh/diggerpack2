@@ -924,17 +924,6 @@
         "value": 4
       }
     },
-    "health_and_disease:benigntumor": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2,
-        "value": 2
-      }
-    },
     "obscure_api:critical_hit": {
       "enabled": false,
       "min": {
@@ -944,6 +933,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "health_and_disease:benigntumor": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2,
+        "value": 2
       }
     },
     "additional_attributes:innate_spell/irons_spellbooks/abyssal_shroud": {
@@ -1529,17 +1529,6 @@
         "value": 100
       }
     },
-    "health_and_disease:foreignbodyinfection": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2,
-        "value": 2
-      }
-    },
     "ars_nouveau:ars_nouveau.perk.spell_damage": {
       "enabled": false,
       "min": {
@@ -1549,6 +1538,17 @@
       "max": {
         "default": 10000,
         "value": 10000
+      }
+    },
+    "health_and_disease:foreignbodyinfection": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2,
+        "value": 2
       }
     },
     "additional_attributes:innate_spell/irons_spellbooks/sculk_tentacles": {
@@ -1595,22 +1595,22 @@
         "value": 100
       }
     },
-    "health_and_disease:saccharides": {
+    "additional_attributes:spell_school_holy": {
       "enabled": false,
       "min": {
-        "default": 1,
-        "value": 1
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 100,
         "value": 100
       }
     },
-    "additional_attributes:spell_school_holy": {
+    "health_and_disease:saccharides": {
       "enabled": false,
       "min": {
-        "default": 0,
-        "value": 0
+        "default": 1,
+        "value": 1
       },
       "max": {
         "default": 100,
@@ -1760,17 +1760,6 @@
         "value": 100
       }
     },
-    "health_and_disease:parasite": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
     "additional_attributes:innate_spell/irons_spellbooks/telekinesis": {
       "enabled": false,
       "min": {
@@ -1780,6 +1769,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "health_and_disease:parasite": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "additional_attributes:innate_spell/irons_spellbooks/evasion": {
@@ -2365,22 +2365,22 @@
         "value": 100
       }
     },
-    "health_and_disease:dietaryfiber": {
+    "additional_attributes:innate_school/irons_spellbooks/holy": {
       "enabled": false,
       "min": {
-        "default": 1,
-        "value": 1
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 100,
         "value": 100
       }
     },
-    "additional_attributes:innate_school/irons_spellbooks/holy": {
+    "health_and_disease:dietaryfiber": {
       "enabled": false,
       "min": {
-        "default": 0,
-        "value": 0
+        "default": 1,
+        "value": 1
       },
       "max": {
         "default": 100,
@@ -4191,17 +4191,6 @@
         "value": 1024
       }
     },
-    "health_and_disease:enderosion": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
     "additional_attributes:innate_spell/irons_spellbooks/arrow_volley": {
       "enabled": false,
       "min": {
@@ -4211,6 +4200,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "health_and_disease:enderosion": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "additional_attributes:spell_type_charge": {

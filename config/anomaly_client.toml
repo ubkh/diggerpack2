@@ -1,0 +1,5 @@
+
+[Effects]
+	#Determines if a heartbeat sound is played when near certain anomalies
+	heartbeat = true
+

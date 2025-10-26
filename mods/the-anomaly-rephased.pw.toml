@@ -1,0 +1,13 @@
+filename = 'anomaly_rephased-2.0.0b20-forge-1.20.1.jar'
+name = 'The Anomaly Rephased'
+side = 'both'
+
+[download]
+hash = 'e8d2e84466920524c71235d0479716d5207bee1a876ab351e82b3f9eef01f11f413a91c6ac0606ff6328f886423a55867b778052823dd36eaf9eb253e8a09433'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rIp1shBK/versions/ivaxHKAs/anomaly_rephased-2.0.0b20-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'rIp1shBK'
+version = 'ivaxHKAs'
