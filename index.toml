@@ -5759,11 +5759,6 @@ hash = "519d9175d15b1770e2d65d1ad334a4991f1caba1b77369cd571a05f86d816bf5"
 metafile = true
 
 [[files]]
-file = "mods/the-broken-script.pw.toml"
-hash = "2f6c38f4cbd497b54991e186368490f544810c4818d42c648459ccf41af5e84f"
-metafile = true
-
-[[files]]
 file = "mods/the-conjurer.pw.toml"
 hash = "7bf7a0dce21a69bd27784a6bb820fed3e1b3bcd13d11e365da585d87b6c21611"
 metafile = true
