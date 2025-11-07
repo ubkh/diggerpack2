@@ -21,8 +21,7 @@
 		"soundEvent": "minecraft:block.note_block.chime"
 	},
 	"mentionKeywords": [
-		"@ubkh",
-		"@qtuchiha"
+		"@ubkh"
 	],
 	"ignoreSystemChats": false,
 	"enableChatSoundCooldown": false,
